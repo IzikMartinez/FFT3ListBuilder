@@ -1,0 +1,20 @@
+export type TankData = {
+    Name: string;
+    Period: string;
+    Points: number;
+    Move: string;
+    Armor: string;
+    GunPen: string;
+    GunROF: number;
+    GunRng: number;
+    AI: number;
+    MslPen: string | null;
+    MslROF: string | null;
+    MslRng: string | null;
+    IndRng: string | null;
+    IndAmmo: string | null;
+    Equip: string | null;
+    Cap: string | null;
+    Msl: null;
+    Notes: string;
+};
