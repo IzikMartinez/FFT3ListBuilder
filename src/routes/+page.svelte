@@ -1,9 +1,9 @@
 <script lang="ts">
   import {onMount} from "svelte";
-  import Unitcard from "./unitcard.svelte";
+  import Unitcard from "../components/Unitcard.svelte";
   import type {TankData} from "../types";
   let value = ""
-  let era = "test"
+  let era = ""
   let jsonData = [] as TankData[]
   let tanks = [] as TankData[]
   async function fetchData() {

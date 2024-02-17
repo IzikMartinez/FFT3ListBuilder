@@ -1,6 +1,6 @@
 <script lang="ts">
     import type {TankData} from "../types";
-    import Attribute from "./attribute.svelte";
+    import Attribute from "../fragments/attribute.svelte";
     export let items: TankData
 
 </script>
@@ -13,7 +13,7 @@
     <Attribute text={items.GunRng} type="Gun Range"/>
     <Attribute text={items.GunROF} type="Gun ROF"/>
     <Attribute text={items.GunPen} type="Gun Penetration"/>
-    <Attribute text={items.AI} type="AI"/>
+    <Attribute text={items.AI} type="Anti-Infantry"/>
 
     {#if items.Msl}
         <Attribute text={items.MslRng} type="Missile Range"/>
