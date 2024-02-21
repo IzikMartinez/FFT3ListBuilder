@@ -17,7 +17,7 @@
     "Equip":"-",
     "Cap":"-",
     "Msl":null,
-    "Notes":"76mm\/L43 R (Russia)"
+    "Weapons": ["76mm\/L43 R (Russia)"]
   },
   {
     "Name":"T-34\/76 m1943",
@@ -37,7 +37,7 @@
     "Equip":"-",
     "Cap":"-",
     "Msl":null,
-    "Notes":"76mm\/L43 R (Russia)"
+    "Weapons": ["76mm\/L43 R (Russia)"]
   },
   {
     "Name":"T-34\/85",
@@ -57,7 +57,7 @@
     "Equip":"-",
     "Cap":"-",
     "Msl":null,
-    "Notes":"85mm\/L55 R ZIS-S53(Russia)"
+    "Weapons": ["85mm\/L55 R ZIS-S53(Russia)"]
   },
   {
     "Name":"T-34\/85",
@@ -77,7 +77,7 @@
     "Equip":"-",
     "Cap":"-",
     "Msl":null,
-    "Notes":"85mm\/L55 R ZIS-S53(Russia)"
+    "Weapons": ["85mm\/L55 R ZIS-S53(Russia)"]
   },
   {
     "Name":"T-34\/85",
@@ -97,7 +97,7 @@
     "Equip":"-",
     "Cap":"-",
     "Msl":null,
-    "Notes":"85mm\/L55 R ZIS-S53(Russia)"
+    "Weapons": ["85mm\/L55 R ZIS-S53(Russia)"]
   },
   {
     "Name":"IS-3 \/ IS-3M",
@@ -117,7 +117,7 @@
     "Equip":"-",
     "Cap":"-",
     "Msl":null,
-    "Notes":"122mm\/L43 R D-25 (Russia)"
+    "Weapons": ["122mm\/L43 R D-25 (Russia)"]
   },
   {
     "Name":"IS-3 \/ IS-3M",
@@ -137,7 +137,7 @@
     "Equip":"-",
     "Cap":"-",
     "Msl":null,
-    "Notes":"122mm\/L43 R D-25 (Russia)"
+    "Weapons": ["122mm\/L43 R D-25 (Russia)"]
   },
   {
     "Name":"IS-4",
@@ -157,7 +157,7 @@
     "Equip":"-",
     "Cap":"-",
     "Msl":null,
-    "Notes":"122mm\/L43 R D-25 (Russia)"
+    "Weapons": ["122mm\/L43 R D-25 (Russia)"]
   },
   {
     "Name":"T-10",
@@ -177,7 +177,7 @@
     "Equip":"-",
     "Cap":"-",
     "Msl":null,
-    "Notes":"122mm\/L43 R D-25 (Russia)"
+    "Weapons": ["122mm\/L43 R D-25 (Russia)"]
   },
   {
     "Name":"T-10",
@@ -197,7 +197,7 @@
     "Equip":"-",
     "Cap":"-",
     "Msl":null,
-    "Notes":"122mm\/L43 R D-25 (Russia)"
+    "Weapons": ["122mm\/L43 R D-25 (Russia)"]
   },
   {
     "Name":"T-10A\/T-10B",
@@ -217,7 +217,7 @@
     "Equip":"s,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"122mm\/L43 R D-25 (Russia)"
+    "Weapons": ["122mm\/L43 R D-25 (Russia)"]
   },
   {
     "Name":"T-10A\/T-10B",
@@ -237,7 +237,7 @@
     "Equip":"s,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"122mm\/L43 R D-25 (Russia)"
+    "Weapons": ["122mm\/L43 R D-25 (Russia)"]
   },
   {
     "Name":"T-10M",
@@ -257,7 +257,7 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"122mm\/L43 R D-25 (Russia)"
+    "Weapons": ["122mm\/L43 R D-25 (Russia)"]
   },
   {
     "Name":"T-10M",
@@ -277,7 +277,7 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"122mm\/L43 R D-25 (Russia)"
+    "Weapons": ["122mm\/L43 R D-25 (Russia)"]
   },
   {
     "Name":"T-54",
@@ -297,7 +297,7 @@
     "Equip":"-",
     "Cap":"-",
     "Msl":null,
-    "Notes":"100mm\/L56 R (Russia)"
+    "Weapons": ["100mm\/L56 R (Russia)"]
   },
   {
     "Name":"T-54",
@@ -317,7 +317,7 @@
     "Equip":"-",
     "Cap":"-",
     "Msl":null,
-    "Notes":"100mm\/L56 R (Russia)"
+    "Weapons": ["100mm\/L56 R (Russia)"]
   },
   {
     "Name":"T-54",
@@ -337,7 +337,7 @@
     "Equip":"-",
     "Cap":"-",
     "Msl":null,
-    "Notes":"100mm\/L56 R (Russia)"
+    "Weapons": ["100mm\/L56 R (Russia)"]
   },
   {
     "Name":"T-54",
@@ -357,7 +357,7 @@
     "Equip":"-",
     "Cap":"-",
     "Msl":null,
-    "Notes":"100mm\/L56 R (Russia)"
+    "Weapons": ["100mm\/L56 R (Russia)"]
   },
   {
     "Name":"T-54A",
@@ -377,7 +377,7 @@
     "Equip":"s",
     "Cap":"-",
     "Msl":null,
-    "Notes":"100mm\/L56 R (Russia)"
+    "Weapons": ["100mm\/L56 R (Russia)"]
   },
   {
     "Name":"T-54A",
@@ -397,7 +397,7 @@
     "Equip":"s",
     "Cap":"-",
     "Msl":null,
-    "Notes":"100mm\/L56 R (Russia)"
+    "Weapons": ["100mm\/L56 R (Russia)"]
   },
   {
     "Name":"T-54A",
@@ -417,7 +417,7 @@
     "Equip":"s",
     "Cap":"-",
     "Msl":null,
-    "Notes":"100mm\/L56 R (Russia)"
+    "Weapons": ["100mm\/L56 R (Russia)"]
   },
   {
     "Name":"T-54A",
@@ -437,7 +437,7 @@
     "Equip":"s",
     "Cap":"-",
     "Msl":null,
-    "Notes":"100mm\/L56 R (Russia)"
+    "Weapons": ["100mm\/L56 R (Russia)"]
   },
   {
     "Name":"T-54B",
@@ -457,7 +457,7 @@
     "Equip":"s,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"100mm\/L56 R (Russia)"
+    "Weapons": ["100mm\/L56 R (Russia)"]
   },
   {
     "Name":"T-54B",
@@ -477,7 +477,7 @@
     "Equip":"s,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"100mm\/L56 R (Russia)"
+    "Weapons": ["100mm\/L56 R (Russia)"]
   },
   {
     "Name":"T-54B",
@@ -497,7 +497,7 @@
     "Equip":"s,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"100mm\/L56 R (Russia)"
+    "Weapons": ["100mm\/L56 R (Russia)"]
   },
   {
     "Name":"T-54B",
@@ -517,7 +517,7 @@
     "Equip":"s,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"100mm\/L56 R (Russia)"
+    "Weapons": ["100mm\/L56 R (Russia)"]
   },
   {
     "Name":"T-55\/T-55A",
@@ -537,7 +537,7 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"100mm\/L56 R (Russia)"
+    "Weapons": ["100mm\/L56 R (Russia)"]
   },
   {
     "Name":"T-55\/T-55A",
@@ -557,7 +557,7 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"100mm\/L56 R (Russia)"
+    "Weapons": ["100mm\/L56 R (Russia)"]
   },
   {
     "Name":"T-55\/T-55A",
@@ -577,7 +577,7 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"100mm\/L56 R (Russia)"
+    "Weapons": ["100mm\/L56 R (Russia)"]
   },
   {
     "Name":"T-55\/T-55A",
@@ -597,7 +597,7 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"100mm\/L56 R (Russia)"
+    "Weapons": ["100mm\/L56 R (Russia)"]
   },
   {
     "Name":"T-55\/T-55A",
@@ -617,7 +617,7 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"100mm\/L56 R (Russia)"
+    "Weapons": ["100mm\/L56 R (Russia)"]
   },
   {
     "Name":"T-55M \/ T-55AM",
@@ -637,7 +637,7 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"100mm\/L56 R (Russia)"
+    "Weapons": ["100mm\/L56 R (Russia)"]
   },
   {
     "Name":"T-55M \/ T-55AM",
@@ -657,7 +657,11 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"AT-10; 100mm\/L56 R (Russia)"
+    "Weapons":
+		[
+			"100mm\/L56 R (Russia)",
+			"AT-10 'STABBER'"
+		]
   },
   {
     "Name":"   (with missile)",
@@ -677,7 +681,7 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"AT-10b"
+    "Weapons": ["AT-10b"]
   },
   {
     "Name":"   (with missile)",
@@ -697,7 +701,7 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"AT-10c"
+    "Weapons": ["AT-10c"]
   },
   {
     "Name":"T-55M-1 \/ T-55AM-1",
@@ -717,7 +721,7 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"100mm\/L56 R (Russia)"
+    "Weapons": ["100mm\/L56 R (Russia)"]
   },
   {
     "Name":"T-55M-1 \/ T-55AM-1",
@@ -737,7 +741,11 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"AT-10; 100mm\/L56 R (Russia)"
+    "Weapons":
+		[
+			"100mm\/L56 R (Russia)",
+			"AT-10 'STABBER'"
+		]
   },
   {
     "Name":"   (with missile)",
@@ -757,7 +765,7 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"AT-10b"
+    "Weapons": ["AT-10b"]
   },
   {
     "Name":"   (with missile)",
@@ -777,7 +785,7 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"AT-10c"
+    "Weapons": ["AT-10c"]
   },
   {
     "Name":"T-55MV \/ T-55AMV",
@@ -797,7 +805,7 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"100mm\/L56 R (Russia)"
+    "Weapons": ["100mm\/L56 R (Russia)"]
   },
   {
     "Name":"T-55MV \/ T-55AMV",
@@ -817,7 +825,7 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"100mm\/L56 R (Russia)"
+    "Weapons": ["100mm\/L56 R (Russia)"]
   },
   {
     "Name":"T-55MV \/ T-55AMV",
@@ -837,7 +845,11 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"AT-10; 100mm\/L56 R (Russia)"
+    "Weapons":
+		[
+			"100mm\/L56 R (Russia)",
+			"AT-10 'STABBER'"
+		]
   },
   {
     "Name":"   (with missile)",
@@ -857,7 +869,7 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":null
+    "Weapons": [null]
   },
   {
     "Name":"   (with missile)",
@@ -877,7 +889,7 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"AT-10b"
+    "Weapons": ["AT-10b"]
   },
   {
     "Name":"   (with missile)",
@@ -897,7 +909,7 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"AT-10c"
+    "Weapons": ["AT-10c"]
   },
   {
     "Name":"T-55MV-1 \/ T-55AMV-1",
@@ -917,7 +929,7 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"100mm\/L56 R (Russia)"
+    "Weapons": ["100mm\/L56 R (Russia)"]
   },
   {
     "Name":"T-55MV-1 \/ T-55AMV-1",
@@ -937,7 +949,7 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"100mm\/L56 R (Russia)"
+    "Weapons": ["100mm\/L56 R (Russia)"]
   },
   {
     "Name":"T-55MV-1 \/ T-55AMV-1",
@@ -957,7 +969,11 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"AT-10; 100mm\/L56 R (Russia)"
+    "Weapons":
+		[
+			"100mm\/L56 R (Russia)",
+			"AT-10 'STABBER'"
+		]
   },
   {
     "Name":"   (with missile)",
@@ -977,7 +993,7 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":null
+    "Weapons": [null]
   },
   {
     "Name":"   (with missile)",
@@ -997,7 +1013,7 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"AT-10b"
+    "Weapons": ["AT-10b"]
   },
   {
     "Name":"   (with missile)",
@@ -1017,7 +1033,7 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"AT-10c"
+    "Weapons": ["AT-10c"]
   },
   {
     "Name":"T-55AD",
@@ -1037,7 +1053,11 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"ATGM defenses: +1 to save; AT-10;"
+    "Weapons":
+		[
+			"AT-10 'STABBER';",
+			"ATGM defenses: +1 to save"
+		]
   },
   {
     "Name":"   (Only used by Naval Infantry)",
@@ -1057,7 +1077,7 @@
     "Equip":null,
     "Cap":null,
     "Msl":null,
-    "Notes":"   100mm\/L56 R (Russia)"
+    "Weapons": ["   100mm\/L56 R (Russia)"]
   },
   {
     "Name":"T-55AD1",
@@ -1077,7 +1097,11 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"ATGM defenses: +1 to save; AT-10;"
+    "Weapons":
+		[
+			"AT-10 'STABBER';",
+			"ATGM defenses: +1 to save"
+		]
   },
   {
     "Name":"   (Only used by Naval Infantry)",
@@ -1097,7 +1121,7 @@
     "Equip":null,
     "Cap":null,
     "Msl":null,
-    "Notes":"   100mm\/L56 R (Russia)"
+    "Weapons": ["   100mm\/L56 R (Russia)"]
   },
   {
     "Name":"T-62 \/ T-62A",
@@ -1117,7 +1141,7 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"115mm\/L55 SB (Russia)"
+    "Weapons": ["115mm\/L55 SB (Russia)"]
   },
   {
     "Name":"T-62 \/ T-62A",
@@ -1137,7 +1161,7 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"115mm\/L55 SB (Russia)"
+    "Weapons": ["115mm\/L55 SB (Russia)"]
   },
   {
     "Name":"T-62 \/ T-62A",
@@ -1157,7 +1181,7 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"115mm\/L55 SB (Russia)"
+    "Weapons": ["115mm\/L55 SB (Russia)"]
   },
   {
     "Name":"T-62 \/ T-62A",
@@ -1177,7 +1201,7 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"115mm\/L55 SB (Russia)"
+    "Weapons": ["115mm\/L55 SB (Russia)"]
   },
   {
     "Name":"T-62M",
@@ -1197,7 +1221,7 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"115mm\/L55 SB (Russia)"
+    "Weapons": ["115mm\/L55 SB (Russia)"]
   },
   {
     "Name":"T-62M",
@@ -1217,7 +1241,7 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"AT-12"
+    "Weapons": ["AT-12"]
   },
   {
     "Name":"T-62M",
@@ -1237,7 +1261,7 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"AT-12b"
+    "Weapons": ["AT-12b"]
   },
   {
     "Name":"T-62M",
@@ -1257,7 +1281,7 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"AT-12c"
+    "Weapons": ["AT-12c"]
   },
   {
     "Name":"T-62M  (no missile ammo)",
@@ -1277,7 +1301,7 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"115mm\/L55 SB (Russia)"
+    "Weapons": ["115mm\/L55 SB (Russia)"]
   },
   {
     "Name":"T-62M  (no missile ammo)",
@@ -1297,7 +1321,7 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"115mm\/L55 SB (Russia)"
+    "Weapons": ["115mm\/L55 SB (Russia)"]
   },
   {
     "Name":"T-62M1",
@@ -1317,7 +1341,7 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"115mm\/L55 SB (Russia)"
+    "Weapons": ["115mm\/L55 SB (Russia)"]
   },
   {
     "Name":"T-62M1",
@@ -1337,7 +1361,7 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"115mm\/L55 SB (Russia)"
+    "Weapons": ["115mm\/L55 SB (Russia)"]
   },
   {
     "Name":"T-62M-1",
@@ -1357,7 +1381,11 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"AT-12; 115mm\/L55 SB (Russia)"
+    "Weapons":
+		[
+			"115mm\/L55 SB (Russia)",
+			"AT-12"
+		]
   },
   {
     "Name":"T-62M-1",
@@ -1377,7 +1405,7 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"AT-12b"
+    "Weapons": ["AT-12b"]
   },
   {
     "Name":"T-62M-1",
@@ -1397,7 +1425,7 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"AT-12c"
+    "Weapons": ["AT-12c"]
   },
   {
     "Name":"T-62M-1  (no missile ammo)",
@@ -1417,7 +1445,7 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"115mm\/L55 SB (Russia)"
+    "Weapons": ["115mm\/L55 SB (Russia)"]
   },
   {
     "Name":"T-62M1-1",
@@ -1437,7 +1465,7 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"115mm\/L55 SB (Russia)"
+    "Weapons": ["115mm\/L55 SB (Russia)"]
   },
   {
     "Name":"T-62M1-2",
@@ -1457,7 +1485,7 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"115mm\/L55 SB (Russia)"
+    "Weapons": ["115mm\/L55 SB (Russia)"]
   },
   {
     "Name":"T-62M1-2",
@@ -1477,7 +1505,7 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"115mm\/L55 SB (Russia)"
+    "Weapons": ["115mm\/L55 SB (Russia)"]
   },
   {
     "Name":"T-62M1-2-1",
@@ -1497,7 +1525,7 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"115mm\/L55 SB (Russia)"
+    "Weapons": ["115mm\/L55 SB (Russia)"]
   },
   {
     "Name":"T-62MV",
@@ -1517,7 +1545,7 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"115mm\/L55 SB (Russia)"
+    "Weapons": ["115mm\/L55 SB (Russia)"]
   },
   {
     "Name":"T-62MV",
@@ -1537,7 +1565,7 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"115mm\/L55 SB (Russia)"
+    "Weapons": ["115mm\/L55 SB (Russia)"]
   },
   {
     "Name":"T-62MV-1",
@@ -1557,7 +1585,7 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"115mm\/L55 SB (Russia)"
+    "Weapons": ["115mm\/L55 SB (Russia)"]
   },
   {
     "Name":"T-62MV-3",
@@ -1577,7 +1605,7 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"115mm\/L55 SB (Russia)"
+    "Weapons": ["115mm\/L55 SB (Russia)"]
   },
   {
     "Name":"T-62D  (very few built)",
@@ -1597,7 +1625,7 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"ATGM defenses: +1 to save;"
+    "Weapons": ["ATGM defenses: +1 to save;"]
   },
   {
     "Name":"T-62D  (very few built)",
@@ -1617,7 +1645,7 @@
     "Equip":null,
     "Cap":null,
     "Msl":null,
-    "Notes":"   115mm\/L55 SB (Russia)"
+    "Weapons": ["   115mm\/L55 SB (Russia)"]
   },
   {
     "Name":"T-62D  (very few built)",
@@ -1637,7 +1665,7 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"AT-12"
+    "Weapons": ["AT-12"]
   },
   {
     "Name":"T-62D  (very few built)",
@@ -1657,7 +1685,7 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"AT-12b"
+    "Weapons": ["AT-12b"]
   },
   {
     "Name":"T-62D  (very few built)",
@@ -1677,7 +1705,7 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"AT-12c"
+    "Weapons": ["AT-12c"]
   },
   {
     "Name":"T-62D  (no msl ammo, ",
@@ -1697,7 +1725,7 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"ATGM defenses: +1 to save;"
+    "Weapons": ["ATGM defenses: +1 to save;"]
   },
   {
     "Name":"   very few built)",
@@ -1717,7 +1745,7 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"   115mm\/L55 SB (Russia)"
+    "Weapons": ["   115mm\/L55 SB (Russia)"]
   },
   {
     "Name":"T-62D-1  (very few built)",
@@ -1737,7 +1765,11 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"ATGM defenses: +1 to save; AT-12;"
+    "Weapons":
+		[
+			"AT-12;",
+			"ATGM defenses: +1 to save"
+		]
   },
   {
     "Name":"T-62D-1  (very few built)",
@@ -1757,7 +1789,7 @@
     "Equip":null,
     "Cap":null,
     "Msl":null,
-    "Notes":"   115mm\/L55 SB (Russia)"
+    "Weapons": ["   115mm\/L55 SB (Russia)"]
   },
   {
     "Name":"T-62D-1  (very few built)",
@@ -1777,7 +1809,7 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"AT-12b"
+    "Weapons": ["AT-12b"]
   },
   {
     "Name":"T-62D-1  (very few built)",
@@ -1797,7 +1829,7 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"AT-12c"
+    "Weapons": ["AT-12c"]
   },
   {
     "Name":"T-62D-1  (no msl ammo, ",
@@ -1817,7 +1849,7 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"ATGM defenses: +1 to save;"
+    "Weapons": ["ATGM defenses: +1 to save;"]
   },
   {
     "Name":"   very few built)",
@@ -1837,7 +1869,7 @@
     "Equip":null,
     "Cap":null,
     "Msl":null,
-    "Notes":"   115mm\/L55 SB (Russia)"
+    "Weapons": ["   115mm\/L55 SB (Russia)"]
   },
   {
     "Name":"T-64  (only 600 built)",
@@ -1857,7 +1889,7 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"115mm\/L55 SB (Russia)"
+    "Weapons": ["115mm\/L55 SB (Russia)"]
   },
   {
     "Name":"T-64  (only 600 built)",
@@ -1877,7 +1909,7 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"115mm\/L55 SB (Russia)"
+    "Weapons": ["115mm\/L55 SB (Russia)"]
   },
   {
     "Name":"T-64  (only 600 built)",
@@ -1897,7 +1929,7 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"115mm\/L55 SB (Russia)"
+    "Weapons": ["115mm\/L55 SB (Russia)"]
   },
   {
     "Name":"T-64A",
@@ -1917,7 +1949,7 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"125mm\/L48 SB (Russia)"
+    "Weapons": ["125mm\/L48 SB (Russia)"]
   },
   {
     "Name":"T-64A",
@@ -1937,7 +1969,7 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"125mm\/L48 SB (Russia)"
+    "Weapons": ["125mm\/L48 SB (Russia)"]
   },
   {
     "Name":"T-64A",
@@ -1957,7 +1989,7 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"125mm\/L48 SB (Russia)"
+    "Weapons": ["125mm\/L48 SB (Russia)"]
   },
   {
     "Name":"T-64A",
@@ -1977,7 +2009,7 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"125mm\/L48 SB (Russia)"
+    "Weapons": ["125mm\/L48 SB (Russia)"]
   },
   {
     "Name":"T-64A",
@@ -1997,7 +2029,7 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"125mm\/L48 SB (Russia)"
+    "Weapons": ["125mm\/L48 SB (Russia)"]
   },
   {
     "Name":"T-64B",
@@ -2017,7 +2049,11 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"AT-8; 125mm\/L48 SB (Russia)"
+    "Weapons":
+		[
+			"125mm\/L48 SB (Russia)",
+			"AT-8"
+		]
   },
   {
     "Name":"T-64B",
@@ -2037,7 +2073,11 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"AT-8; 125mm\/L48 SB (Russia)"
+    "Weapons":
+		[
+			"125mm\/L48 SB (Russia)",
+			"AT-8"
+		]
   },
   {
     "Name":"T-64B",
@@ -2057,7 +2097,11 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"AT-8; 125mm\/L48 SB (Russia)"
+    "Weapons":
+		[
+			"125mm\/L48 SB (Russia)",
+			"AT-8"
+		]
   },
   {
     "Name":"T-64B  (no missile ammo)",
@@ -2077,7 +2121,7 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"125mm\/L48 SB (Russia)"
+    "Weapons": ["125mm\/L48 SB (Russia)"]
   },
   {
     "Name":"T-64B  (no missile ammo)",
@@ -2097,7 +2141,7 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"125mm\/L48 SB (Russia)"
+    "Weapons": ["125mm\/L48 SB (Russia)"]
   },
   {
     "Name":"T-64B  (no missile ammo)",
@@ -2117,7 +2161,7 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"125mm\/L48 SB (Russia)"
+    "Weapons": ["125mm\/L48 SB (Russia)"]
   },
   {
     "Name":"T-64B1",
@@ -2137,7 +2181,7 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"125mm\/L48 SB (Russia)"
+    "Weapons": ["125mm\/L48 SB (Russia)"]
   },
   {
     "Name":"T-64B1",
@@ -2157,7 +2201,7 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"125mm\/L48 SB (Russia)"
+    "Weapons": ["125mm\/L48 SB (Russia)"]
   },
   {
     "Name":"T-64B1",
@@ -2177,7 +2221,7 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"125mm\/L48 SB (Russia)"
+    "Weapons": ["125mm\/L48 SB (Russia)"]
   },
   {
     "Name":"T-64BV",
@@ -2197,7 +2241,11 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"AT-8; 125mm\/L48 SB (Russia)"
+    "Weapons":
+		[
+			"125mm\/L48 SB (Russia)",
+			"AT-8"
+		]
   },
   {
     "Name":"T-64BV",
@@ -2217,7 +2265,11 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"AT-8; 125mm\/L48 SB (Russia)"
+    "Weapons":
+		[
+			"125mm\/L48 SB (Russia)",
+			"AT-8"
+		]
   },
   {
     "Name":"T-64BV",
@@ -2237,7 +2289,11 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"AT-8; 125mm\/L48 SB (Russia)"
+    "Weapons":
+		[
+			"125mm\/L48 SB (Russia)",
+			"AT-8"
+		]
   },
   {
     "Name":"T-64BV  (no missile ammo)",
@@ -2257,7 +2313,7 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"125mm\/L48 SB (Russia)"
+    "Weapons": ["125mm\/L48 SB (Russia)"]
   },
   {
     "Name":"T-64BV  (no missile ammo)",
@@ -2277,7 +2333,7 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"125mm\/L48 SB (Russia)"
+    "Weapons": ["125mm\/L48 SB (Russia)"]
   },
   {
     "Name":"T-64BV  (no missile ammo)",
@@ -2297,7 +2353,7 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"125mm\/L48 SB (Russia)"
+    "Weapons": ["125mm\/L48 SB (Russia)"]
   },
   {
     "Name":"T-64BV1",
@@ -2317,7 +2373,7 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"125mm\/L48 SB (Russia)"
+    "Weapons": ["125mm\/L48 SB (Russia)"]
   },
   {
     "Name":"T-64BV1",
@@ -2337,7 +2393,7 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"125mm\/L48 SB (Russia)"
+    "Weapons": ["125mm\/L48 SB (Russia)"]
   },
   {
     "Name":"T-64BV1",
@@ -2357,7 +2413,7 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"125mm\/L48 SB (Russia)"
+    "Weapons": ["125mm\/L48 SB (Russia)"]
   },
   {
     "Name":"T-64R",
@@ -2377,7 +2433,11 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"AT-8; 125mm\/L48 SB (Russia)"
+    "Weapons":
+		[
+			"125mm\/L48 SB (Russia)",
+			"AT-8"
+		]
   },
   {
     "Name":"T-64R",
@@ -2397,7 +2457,11 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"AT-8; 125mm\/L48 SB (Russia)"
+    "Weapons":
+		[
+			"125mm\/L48 SB (Russia)",
+			"AT-8"
+		]
   },
   {
     "Name":"T-64R",
@@ -2417,7 +2481,11 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"AT-8; 125mm\/L48 SB (Russia)"
+    "Weapons":
+		[
+			"125mm\/L48 SB (Russia)",
+			"AT-8"
+		]
   },
   {
     "Name":"T-64R  (no missile ammo)",
@@ -2437,7 +2505,7 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"125mm\/L48 SB (Russia)"
+    "Weapons": ["125mm\/L48 SB (Russia)"]
   },
   {
     "Name":"T-64R  (no missile ammo)",
@@ -2457,7 +2525,7 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"125mm\/L48 SB (Russia)"
+    "Weapons": ["125mm\/L48 SB (Russia)"]
   },
   {
     "Name":"T-64R  (no missile ammo)",
@@ -2477,7 +2545,7 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"125mm\/L48 SB (Russia)"
+    "Weapons": ["125mm\/L48 SB (Russia)"]
   },
   {
     "Name":"T-72",
@@ -2497,7 +2565,7 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"125mm\/L48 SB (Russia)"
+    "Weapons": ["125mm\/L48 SB (Russia)"]
   },
   {
     "Name":"T-72",
@@ -2517,7 +2585,7 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"125mm\/L48 SB (Russia)"
+    "Weapons": ["125mm\/L48 SB (Russia)"]
   },
   {
     "Name":"T-72",
@@ -2537,7 +2605,7 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"125mm\/L48 SB (Russia)"
+    "Weapons": ["125mm\/L48 SB (Russia)"]
   },
   {
     "Name":"T-72",
@@ -2557,7 +2625,7 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"125mm\/L48 SB (Russia)"
+    "Weapons": ["125mm\/L48 SB (Russia)"]
   },
   {
     "Name":"T-72",
@@ -2577,7 +2645,7 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"125mm\/L48 SB (Russia)"
+    "Weapons": ["125mm\/L48 SB (Russia)"]
   },
   {
     "Name":"T-72 \/ T-72M Export",
@@ -2597,7 +2665,7 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"125mm\/L48 SB Export (Russia)"
+    "Weapons": ["125mm\/L48 SB Export (Russia)"]
   },
   {
     "Name":"T-72 \/ T-72M Export",
@@ -2617,7 +2685,7 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"125mm\/L48 SB Export (Russia)"
+    "Weapons": ["125mm\/L48 SB Export (Russia)"]
   },
   {
     "Name":"T-72 \/ T-72M Export",
@@ -2637,7 +2705,7 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"125mm\/L48 SB Export (Russia)"
+    "Weapons": ["125mm\/L48 SB Export (Russia)"]
   },
   {
     "Name":"T-72 \/ T-72M Export",
@@ -2657,7 +2725,7 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"125mm\/L48 SB Export (Russia)"
+    "Weapons": ["125mm\/L48 SB Export (Russia)"]
   },
   {
     "Name":"T-72A",
@@ -2677,7 +2745,7 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"125mm\/L48 SB (Russia)"
+    "Weapons": ["125mm\/L48 SB (Russia)"]
   },
   {
     "Name":"T-72A",
@@ -2697,7 +2765,7 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"125mm\/L48 SB (Russia)"
+    "Weapons": ["125mm\/L48 SB (Russia)"]
   },
   {
     "Name":"T-72A",
@@ -2717,7 +2785,7 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"125mm\/L48 SB (Russia)"
+    "Weapons": ["125mm\/L48 SB (Russia)"]
   },
   {
     "Name":"T-72A",
@@ -2737,7 +2805,7 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"125mm\/L48 SB (Russia)"
+    "Weapons": ["125mm\/L48 SB (Russia)"]
   },
   {
     "Name":"T-72A",
@@ -2757,7 +2825,7 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"125mm\/L48 SB (Russia)"
+    "Weapons": ["125mm\/L48 SB (Russia)"]
   },
   {
     "Name":"T-72M1 Export",
@@ -2777,7 +2845,7 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"125mm\/L48 SB Export (Russia)"
+    "Weapons": ["125mm\/L48 SB Export (Russia)"]
   },
   {
     "Name":"T-72M1 Export",
@@ -2797,7 +2865,7 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"125mm\/L48 SB Export (Russia)"
+    "Weapons": ["125mm\/L48 SB Export (Russia)"]
   },
   {
     "Name":"T-72M1 Export",
@@ -2817,7 +2885,7 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"125mm\/L48 SB Export (Russia)"
+    "Weapons": ["125mm\/L48 SB Export (Russia)"]
   },
   {
     "Name":"T-72M1 Export",
@@ -2837,31 +2905,11 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"125mm\/L48 SB Export (Russia)"
+    "Weapons": ["125mm\/L48 SB Export (Russia)"]
   },
   {
     "Name":"T-72B",
-    "Period":86,
-    "Points":252.0,
-    "Move":"9t",
-    "Armor":"12 A 9",
-    "GunPen":15,
-    "GunROF":2,
-    "GunRng":16,
-    "AI":-1,
-    "MslPen":"-",
-    "MslROF":"-",
-    "MslRng":"-",
-    "Ind Rng":"-",
-    "Ind Ammo":"-",
-    "Equip":"s,n,i",
-    "Cap":"-",
-    "Msl":null,
-    "Notes":"125mm\/L48 SB (Russia)"
-  },
-  {
-    "Name":"T-72B",
-    "Period":87,
+    "Period":"85-87",
     "Points":252.0,
     "Move":"9t",
     "Armor":"12 A 9",
@@ -2877,7 +2925,10 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"AT-11"
+    "Weapons": [
+      "125mm\/L48 SB (Russia)",
+      "AT-11 'SNIPER'"
+    ]
   },
   {
     "Name":"T-72B",
@@ -2897,7 +2948,7 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"AT-11"
+    "Weapons": ["AT-11 'SNIPER'"]
   },
   {
     "Name":"T-72B",
@@ -2917,7 +2968,7 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"AT-11"
+    "Weapons": ["AT-11 'SNIPER'"]
   },
   {
     "Name":"T-72B  (no missile ammo)",
@@ -2937,7 +2988,7 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"125mm\/L48 SB (Russia)"
+    "Weapons": ["125mm\/L48 SB (Russia)"]
   },
   {
     "Name":"T-72B  (no missile ammo)",
@@ -2957,7 +3008,7 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"125mm\/L48 SB (Russia)"
+    "Weapons": ["125mm\/L48 SB (Russia)"]
   },
   {
     "Name":"T-72B  (no missile ammo)",
@@ -2977,7 +3028,7 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"125mm\/L48 SB (Russia)"
+    "Weapons": ["125mm\/L48 SB (Russia)"]
   },
   {
     "Name":"T-72S Export",
@@ -2997,7 +3048,11 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"AT-11; 125mm\/L48 SB Export (Russia)"
+    "Weapons":
+		[
+			"125mm\/L48 SB Export (Russia)",
+			"AT-11 'SNIPER'"
+		]
   },
   {
     "Name":"T-72S Export",
@@ -3017,7 +3072,11 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"AT-11; 125mm\/L48 SB Export (Russia)"
+    "Weapons":
+		[
+			"125mm\/L48 SB Export (Russia)",
+			"AT-11 'SNIPER'"
+		]
   },
   {
     "Name":"T-72S Export",
@@ -3037,7 +3096,11 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"AT-11; 125mm\/L48 SB Export (Russia)"
+    "Weapons":
+		[
+			"125mm\/L48 SB Export (Russia)",
+			"AT-11 'SNIPER'"
+		]
   },
   {
     "Name":"T-72S Export (no missile",
@@ -3057,7 +3120,7 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"125mm\/L48 SB Export (Russia)"
+    "Weapons": ["125mm\/L48 SB Export (Russia)"]
   },
   {
     "Name":"   ammo)",
@@ -3077,7 +3140,7 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":null
+    "Weapons": [null]
   },
   {
     "Name":"   ammo)",
@@ -3097,7 +3160,7 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":null
+    "Weapons": [null]
   },
   {
     "Name":"T-72B1",
@@ -3117,7 +3180,7 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"125mm\/L48 SB (Russia)"
+    "Weapons": ["125mm\/L48 SB (Russia)"]
   },
   {
     "Name":"T-72B1",
@@ -3137,7 +3200,7 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"125mm\/L48 SB (Russia)"
+    "Weapons": ["125mm\/L48 SB (Russia)"]
   },
   {
     "Name":"T-72B1",
@@ -3157,7 +3220,7 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"125mm\/L48 SB (Russia)"
+    "Weapons": ["125mm\/L48 SB (Russia)"]
   },
   {
     "Name":"T-72M1M Export",
@@ -3177,7 +3240,7 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"125mm\/L48 SB Export (Russia)"
+    "Weapons": ["125mm\/L48 SB Export (Russia)"]
   },
   {
     "Name":"T-72M1M Export",
@@ -3197,7 +3260,7 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"125mm\/L48 SB Export (Russia)"
+    "Weapons": ["125mm\/L48 SB Export (Russia)"]
   },
   {
     "Name":"T-72M1M Export",
@@ -3217,7 +3280,7 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"125mm\/L48 SB Export (Russia)"
+    "Weapons": ["125mm\/L48 SB Export (Russia)"]
   },
   {
     "Name":"T-72BM",
@@ -3237,7 +3300,11 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"AT-11; 125mm\/L48 SB (Russia)"
+    "Weapons":
+		[
+			"125mm\/L48 SB (Russia)",
+			"AT-11 'SNIPER'"
+		]
   },
   {
     "Name":"T-72BM",
@@ -3257,7 +3324,11 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"AT-11; 125mm\/L48 SB (Russia)"
+    "Weapons":
+		[
+			"125mm\/L48 SB (Russia)",
+			"AT-11 'SNIPER'"
+		]
   },
   {
     "Name":"T-72BM  (no missile ammo)",
@@ -3277,7 +3348,7 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"125mm\/L48 SB (Russia)"
+    "Weapons": ["125mm\/L48 SB (Russia)"]
   },
   {
     "Name":"T-72BM  (no missile ammo)",
@@ -3297,7 +3368,7 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"125mm\/L48 SB (Russia)"
+    "Weapons": ["125mm\/L48 SB (Russia)"]
   },
   {
     "Name":"T-80",
@@ -3317,7 +3388,7 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"125mm\/L48 SB (Russia)"
+    "Weapons": ["125mm\/L48 SB (Russia)"]
   },
   {
     "Name":"T-80",
@@ -3337,7 +3408,7 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"125mm\/L48 SB (Russia)"
+    "Weapons": ["125mm\/L48 SB (Russia)"]
   },
   {
     "Name":"T-80",
@@ -3357,7 +3428,7 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"125mm\/L48 SB (Russia)"
+    "Weapons": ["125mm\/L48 SB (Russia)"]
   },
   {
     "Name":"T-80",
@@ -3377,7 +3448,7 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"125mm\/L48 SB (Russia)"
+    "Weapons": ["125mm\/L48 SB (Russia)"]
   },
   {
     "Name":"T-80",
@@ -3397,7 +3468,7 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"125mm\/L48 SB (Russia)"
+    "Weapons": ["125mm\/L48 SB (Russia)"]
   },
   {
     "Name":"T-80B",
@@ -3417,7 +3488,11 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"AT-8; 125mm\/L48 SB (Russia)"
+    "Weapons":
+		[
+			"125mm\/L48 SB (Russia)",
+			"AT-8"
+		]
   },
   {
     "Name":"T-80B",
@@ -3437,7 +3512,11 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"AT-8; 125mm\/L48 SB (Russia)"
+    "Weapons":
+		[
+			"125mm\/L48 SB (Russia)",
+			"AT-8"
+		]
   },
   {
     "Name":"T-80B",
@@ -3457,7 +3536,11 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"AT-8; 125mm\/L48 SB (Russia)"
+    "Weapons":
+		[
+			"125mm\/L48 SB (Russia)",
+			"AT-8"
+		]
   },
   {
     "Name":"T-80B",
@@ -3477,7 +3560,11 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"AT-8; 125mm\/L48 SB (Russia)"
+    "Weapons":
+		[
+			"125mm\/L48 SB (Russia)",
+			"AT-8"
+		]
   },
   {
     "Name":"T-80B",
@@ -3497,7 +3584,11 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"AT-8; 125mm\/L48 SB (Russia)"
+    "Weapons":
+		[
+			"125mm\/L48 SB (Russia)",
+			"AT-8"
+		]
   },
   {
     "Name":"T-80B",
@@ -3517,7 +3608,11 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"AT-8; 125mm\/L48 SB (Russia)"
+    "Weapons":
+		[
+			"125mm\/L48 SB (Russia)",
+			"AT-8"
+		]
   },
   {
     "Name":"T-80B (no missile ammo)",
@@ -3537,7 +3632,7 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"125mm\/L48 SB (Russia)"
+    "Weapons": ["125mm\/L48 SB (Russia)"]
   },
   {
     "Name":"T-80B (no missile ammo)",
@@ -3557,7 +3652,7 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"125mm\/L48 SB (Russia)"
+    "Weapons": ["125mm\/L48 SB (Russia)"]
   },
   {
     "Name":"T-80B (no missile ammo)",
@@ -3577,7 +3672,7 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"125mm\/L48 SB (Russia)"
+    "Weapons": ["125mm\/L48 SB (Russia)"]
   },
   {
     "Name":"T-80B (no missile ammo)",
@@ -3597,7 +3692,7 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"125mm\/L48 SB (Russia)"
+    "Weapons": ["125mm\/L48 SB (Russia)"]
   },
   {
     "Name":"T-80B (no missile ammo)",
@@ -3617,7 +3712,7 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"125mm\/L48 SB (Russia)"
+    "Weapons": ["125mm\/L48 SB (Russia)"]
   },
   {
     "Name":"T-80B (no missile ammo)",
@@ -3637,7 +3732,7 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"125mm\/L48 SB (Russia)"
+    "Weapons": ["125mm\/L48 SB (Russia)"]
   },
   {
     "Name":"T-80U",
@@ -3657,7 +3752,11 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"AT-11; 125mm\/L48 SB (Russia)"
+    "Weapons":
+		[
+			"125mm\/L48 SB (Russia)",
+			"AT-11 'SNIPER'"
+		]
   },
   {
     "Name":"T-80U",
@@ -3677,7 +3776,11 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"AT-11; 125mm\/L48 SB (Russia)"
+    "Weapons":
+		[
+			"125mm\/L48 SB (Russia)",
+			"AT-11 'SNIPER'"
+		]
   },
   {
     "Name":"T-80U",
@@ -3697,7 +3800,11 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"AT-11; 125mm\/L48 SB (Russia)"
+    "Weapons":
+		[
+			"125mm\/L48 SB (Russia)",
+			"AT-11 'SNIPER'"
+		]
   },
   {
     "Name":"T-80U  (no missile ammo)",
@@ -3717,7 +3824,7 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"125mm\/L48 SB (Russia)"
+    "Weapons": ["125mm\/L48 SB (Russia)"]
   },
   {
     "Name":"T-80U  (no missile ammo)",
@@ -3737,7 +3844,7 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"125mm\/L48 SB (Russia)"
+    "Weapons": ["125mm\/L48 SB (Russia)"]
   },
   {
     "Name":"T-80U  (no missile ammo)",
@@ -3757,7 +3864,7 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"125mm\/L48 SB (Russia)"
+    "Weapons": ["125mm\/L48 SB (Russia)"]
   },
   {
     "Name":"T-80UM",
@@ -3777,7 +3884,11 @@
     "Equip":"s,t,n",
     "Cap":"-",
     "Msl":null,
-    "Notes":"AT-11; 125mm\/L48 SB (Russia)"
+    "Weapons":
+		[
+			"125mm\/L48 SB (Russia)",
+			"AT-11 'SNIPER'"
+		]
   },
   {
     "Name":"T-80UM",
@@ -3797,7 +3908,11 @@
     "Equip":"s,t,n",
     "Cap":"-",
     "Msl":null,
-    "Notes":"AT-11; 125mm\/L48 SB (Russia)"
+    "Weapons":
+		[
+			"125mm\/L48 SB (Russia)",
+			"AT-11 'SNIPER'"
+		]
   },
   {
     "Name":"T-80UM  (no missile ammo)",
@@ -3817,7 +3932,7 @@
     "Equip":"s,t,n",
     "Cap":"-",
     "Msl":null,
-    "Notes":"125mm\/L48 SB (Russia)"
+    "Weapons": ["125mm\/L48 SB (Russia)"]
   },
   {
     "Name":"T-80UM  (no missile ammo)",
@@ -3837,7 +3952,7 @@
     "Equip":"s,t,n",
     "Cap":"-",
     "Msl":null,
-    "Notes":"125mm\/L48 SB (Russia)"
+    "Weapons": ["125mm\/L48 SB (Russia)"]
   },
   {
     "Name":"T-80UD",
@@ -3857,7 +3972,11 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"AT-11; 125mm\/L48 SB (Russia)"
+    "Weapons":
+		[
+			"125mm\/L48 SB (Russia)",
+			"AT-11 'SNIPER'"
+		]
   },
   {
     "Name":"T-80UD",
@@ -3877,7 +3996,11 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"AT-11; 125mm\/L48 SB (Russia)"
+    "Weapons":
+		[
+			"125mm\/L48 SB (Russia)",
+			"AT-11 'SNIPER'"
+		]
   },
   {
     "Name":"T-80UD  (no missile ammo)",
@@ -3897,7 +4020,7 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"125mm\/L48 SB (Russia)"
+    "Weapons": ["125mm\/L48 SB (Russia)"]
   },
   {
     "Name":"T-80UD  (no missile ammo)",
@@ -3917,7 +4040,7 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"125mm\/L48 SB (Russia)"
+    "Weapons": ["125mm\/L48 SB (Russia)"]
   },
   {
     "Name":"T-80U  w\/Shtora",
@@ -3937,7 +4060,11 @@
     "Equip":"s,t,n",
     "Cap":"-",
     "Msl":null,
-    "Notes":"ATGM defenses: +1 to save; AT-11;"
+    "Weapons":
+		[
+			"AT-11 'SNIPER';",
+			"ATGM defenses: +1 to save"
+		]
   },
   {
     "Name":"T-80U  w\/Shtora",
@@ -3957,7 +4084,7 @@
     "Equip":"s,t,n",
     "Cap":"-",
     "Msl":null,
-    "Notes":"  125mm\/L48 SB (Russia)"
+    "Weapons": ["  125mm\/L48 SB (Russia)"]
   },
   {
     "Name":"T-80U w\/Shtora (no msl",
@@ -3977,7 +4104,7 @@
     "Equip":"s,t,n",
     "Cap":"-",
     "Msl":null,
-    "Notes":"ATGM defenses: +1 to save;"
+    "Weapons": ["ATGM defenses: +1 to save;"]
   },
   {
     "Name":"   ammo)",
@@ -3997,7 +4124,7 @@
     "Equip":"s,t,n",
     "Cap":"-",
     "Msl":null,
-    "Notes":"  125mm\/L48 SB (Russia)"
+    "Weapons": ["  125mm\/L48 SB (Russia)"]
   },
   {
     "Name":"T-90",
@@ -4017,7 +4144,11 @@
     "Equip":"s,t,n",
     "Cap":"-",
     "Msl":null,
-    "Notes":"ATGM defenses: +1 to save; AT-11;"
+    "Weapons":
+		[
+			"AT-11 'SNIPER';",
+			"ATGM defenses: +1 to save"
+		]
   },
   {
     "Name":"T-90",
@@ -4037,7 +4168,7 @@
     "Equip":"s,t,n",
     "Cap":"-",
     "Msl":null,
-    "Notes":"  125mm\/L48 SB (Russia)"
+    "Weapons": ["  125mm\/L48 SB (Russia)"]
   },
   {
     "Name":"T-90  (no missile ammo)",
@@ -4057,7 +4188,7 @@
     "Equip":"s,t,n",
     "Cap":"-",
     "Msl":null,
-    "Notes":"ATGM defenses: +1 to save;"
+    "Weapons": ["ATGM defenses: +1 to save;"]
   },
   {
     "Name":"T-90  (no missile ammo)",
@@ -4077,7 +4208,7 @@
     "Equip":"s,t,n",
     "Cap":"-",
     "Msl":null,
-    "Notes":"   125mm\/L48 SB (Russia)"
+    "Weapons": ["   125mm\/L48 SB (Russia)"]
   },
   {
     "Name":"T-90A",
@@ -4097,7 +4228,11 @@
     "Equip":"s,t,n",
     "Cap":"-",
     "Msl":null,
-    "Notes":"ATGM defenses: +1 to save; AT-11;"
+    "Weapons":
+		[
+			"AT-11 'SNIPER';",
+			"ATGM defenses: +1 to save"
+		]
   },
   {
     "Name":"T-90A",
@@ -4117,7 +4252,7 @@
     "Equip":null,
     "Cap":null,
     "Msl":null,
-    "Notes":"   125mm\/L48 SB (Russia)"
+    "Weapons": ["   125mm\/L48 SB (Russia)"]
   },
   {
     "Name":"T-90A  (no missile ammo)",
@@ -4137,7 +4272,7 @@
     "Equip":"s,t,n",
     "Cap":"-",
     "Msl":null,
-    "Notes":"ATGM defenses: +1 to save;"
+    "Weapons": ["ATGM defenses: +1 to save;"]
   },
   {
     "Name":"T-90A  (no missile ammo)",
@@ -4157,7 +4292,7 @@
     "Equip":null,
     "Cap":null,
     "Msl":null,
-    "Notes":"   125mm\/L48 SB (Russia)"
+    "Weapons": ["   125mm\/L48 SB (Russia)"]
   },
   {
     "Name":"T-90S Export",
@@ -4177,7 +4312,11 @@
     "Equip":"s,t,n",
     "Cap":"-",
     "Msl":null,
-    "Notes":"AT-11; 125mm\/L48 SB Export (Russia)"
+    "Weapons":
+		[
+			"125mm\/L48 SB Export (Russia)",
+			"AT-11 'SNIPER'"
+		]
   },
   {
     "Name":"T-90S Export (no msl ammo)",
@@ -4197,7 +4336,7 @@
     "Equip":"s,t,n",
     "Cap":"-",
     "Msl":null,
-    "Notes":"125mm\/L48 SB Export (Russia)"
+    "Weapons": ["125mm\/L48 SB Export (Russia)"]
   },
   {
     "Name":"BMPT",
@@ -4217,7 +4356,11 @@
     "Equip":"s,t,n",
     "Cap":"-",
     "Msl":null,
-    "Notes":"AT-14; 30mm R (Russia)"
+    "Weapons":
+		[
+			"30mm R (Russia)",
+			"AT-14"
+		]
   },
   {
     "Name":" ",
@@ -4237,7 +4380,7 @@
     "Equip":"f",
     "Cap":null,
     "Msl":null,
-    "Notes":"30mm AGS-17 (Russia) can fire at same"
+    "Weapons": ["30mm AGS-17 (Russia) can fire at same"]
   },
   {
     "Name":" ",
@@ -4257,7 +4400,7 @@
     "Equip":null,
     "Cap":null,
     "Msl":null,
-    "Notes":"   time as above weapons;"
+    "Weapons": ["   time as above weapons;"]
   },
   {
     "Name":"BTR-50P, BTR-50PA",
@@ -4277,7 +4420,7 @@
     "Equip":"o",
     "Cap":1,
     "Msl":null,
-    "Notes":"7.62mm MG"
+    "Weapons": ["7.62mm MG"]
   },
   {
     "Name":"BTR-50PK",
@@ -4297,7 +4440,7 @@
     "Equip":"n",
     "Cap":1,
     "Msl":null,
-    "Notes":"7.62mm MG"
+    "Weapons": ["7.62mm MG"]
   },
   {
     "Name":"MTLB, MT-LBV, MT-LBT",
@@ -4317,7 +4460,7 @@
     "Equip":"n,i",
     "Cap":1,
     "Msl":null,
-    "Notes":"7.62mm MG"
+    "Weapons": ["7.62mm MG"]
   },
   {
     "Name":"MT-LBVM",
@@ -4337,7 +4480,7 @@
     "Equip":"n,i",
     "Cap":1,
     "Msl":null,
-    "Notes":"12.7mm HMG"
+    "Weapons": ["12.7mm HMG"]
   },
   {
     "Name":"MTLBu",
@@ -4357,7 +4500,7 @@
     "Equip":"n,i",
     "Cap":1,
     "Msl":null,
-    "Notes":"7.62mm MG"
+    "Weapons": ["7.62mm MG"]
   },
   {
     "Name":"BMP-1",
@@ -4377,7 +4520,11 @@
     "Equip":"n,i",
     "Cap":1,
     "Msl":null,
-    "Notes":"AT-3b; 73mm\/L32 Rckt Gun(Russia)"
+    "Weapons":
+		[
+			"73mm\/L32 Rckt Gun(Russia)",
+			"AT-3b"
+		]
   },
   {
     "Name":"BMP-1",
@@ -4397,7 +4544,7 @@
     "Equip":"n,i",
     "Cap":1,
     "Msl":null,
-    "Notes":"AT-3c"
+    "Weapons": ["AT-3c"]
   },
   {
     "Name":"BMP-1",
@@ -4417,7 +4564,7 @@
     "Equip":"n,i",
     "Cap":1,
     "Msl":null,
-    "Notes":"AT-3c"
+    "Weapons": ["AT-3c"]
   },
   {
     "Name":"BMP-1",
@@ -4437,7 +4584,7 @@
     "Equip":"n,i",
     "Cap":1,
     "Msl":null,
-    "Notes":"AT-3d"
+    "Weapons": ["AT-3d"]
   },
   {
     "Name":"BMP-1D",
@@ -4457,7 +4604,11 @@
     "Equip":"n,i",
     "Cap":1,
     "Msl":null,
-    "Notes":"AT-3c; 73mm\/L32 Rckt Gun(Russia)"
+    "Weapons":
+		[
+			"73mm\/L32 Rckt Gun(Russia)",
+			"AT-3c"
+		]
   },
   {
     "Name":"BMP-1D",
@@ -4477,7 +4628,7 @@
     "Equip":"n,i",
     "Cap":1,
     "Msl":null,
-    "Notes":"AT-3d"
+    "Weapons": ["AT-3d"]
   },
   {
     "Name":"BMP-1P",
@@ -4497,7 +4648,11 @@
     "Equip":"n,i",
     "Cap":1,
     "Msl":null,
-    "Notes":"AT-4; 73mm\/L32 Rckt Gun(Russia)"
+    "Weapons":
+		[
+			"73mm\/L32 Rckt Gun(Russia)",
+			"AT-4"
+		]
   },
   {
     "Name":"BMP-1P",
@@ -4517,7 +4672,11 @@
     "Equip":"n,i",
     "Cap":1,
     "Msl":null,
-    "Notes":"AT-4; 73mm\/L32 Rckt Gun(Russia)"
+    "Weapons":
+		[
+			"73mm\/L32 Rckt Gun(Russia)",
+			"AT-4"
+		]
   },
   {
     "Name":"BMP-1P",
@@ -4537,7 +4696,7 @@
     "Equip":"n,i",
     "Cap":1,
     "Msl":null,
-    "Notes":"AT-4b"
+    "Weapons": ["AT-4b"]
   },
   {
     "Name":"BMP-1P",
@@ -4557,7 +4716,7 @@
     "Equip":"n,i",
     "Cap":1,
     "Msl":null,
-    "Notes":"AT-4b"
+    "Weapons": ["AT-4b"]
   },
   {
     "Name":"BMP-1P",
@@ -4577,7 +4736,7 @@
     "Equip":"n,i",
     "Cap":1,
     "Msl":null,
-    "Notes":"AT-4c"
+    "Weapons": ["AT-4c"]
   },
   {
     "Name":"BMP-1PD",
@@ -4597,7 +4756,11 @@
     "Equip":"n,i",
     "Cap":1,
     "Msl":null,
-    "Notes":"AT-4; 73mm\/L32 Rckt Gun(Russia)"
+    "Weapons":
+		[
+			"73mm\/L32 Rckt Gun(Russia)",
+			"AT-4"
+		]
   },
   {
     "Name":"BMP-1PD",
@@ -4617,7 +4780,7 @@
     "Equip":"n,i",
     "Cap":1,
     "Msl":null,
-    "Notes":"AT-4b"
+    "Weapons": ["AT-4b"]
   },
   {
     "Name":"BMP-1PD",
@@ -4637,7 +4800,7 @@
     "Equip":"n,i",
     "Cap":1,
     "Msl":null,
-    "Notes":"AT-4b"
+    "Weapons": ["AT-4b"]
   },
   {
     "Name":"BMP-1PD",
@@ -4657,7 +4820,7 @@
     "Equip":"n,i",
     "Cap":1,
     "Msl":null,
-    "Notes":"AT-4c"
+    "Weapons": ["AT-4c"]
   },
   {
     "Name":"BMP-2",
@@ -4677,7 +4840,11 @@
     "Equip":"s,n,i",
     "Cap":1,
     "Msl":null,
-    "Notes":"AT-5; 30mm R (Russia)"
+    "Weapons":
+		[
+			"30mm R (Russia)",
+			"AT-5"
+		]
   },
   {
     "Name":"BMP-2",
@@ -4697,7 +4864,11 @@
     "Equip":"s,n,i",
     "Cap":1,
     "Msl":null,
-    "Notes":"AT-5; 30mm R (Russia)"
+    "Weapons":
+		[
+			"30mm R (Russia)",
+			"AT-5"
+		]
   },
   {
     "Name":"BMP-2",
@@ -4717,7 +4888,11 @@
     "Equip":"s,n,i",
     "Cap":1,
     "Msl":null,
-    "Notes":"AT-5; 30mm R (Russia)"
+    "Weapons":
+		[
+			"30mm R (Russia)",
+			"AT-5"
+		]
   },
   {
     "Name":"BMP-2",
@@ -4737,7 +4912,7 @@
     "Equip":"s,n,i",
     "Cap":1,
     "Msl":null,
-    "Notes":"AT-5M"
+    "Weapons": ["AT-5M"]
   },
   {
     "Name":"BMP-2 w\/AT-4",
@@ -4757,7 +4932,11 @@
     "Equip":"s,n,i",
     "Cap":1,
     "Msl":null,
-    "Notes":"AT-4; 30mm R (Russia)"
+    "Weapons":
+		[
+			"30mm R (Russia)",
+			"AT-4"
+		]
   },
   {
     "Name":"BMP-2 w\/AT-4",
@@ -4777,7 +4956,7 @@
     "Equip":"s,n,i",
     "Cap":1,
     "Msl":null,
-    "Notes":"AT-4b"
+    "Weapons": ["AT-4b"]
   },
   {
     "Name":"BMP-2 w\/AT-4",
@@ -4797,7 +4976,7 @@
     "Equip":"s,n,i",
     "Cap":1,
     "Msl":null,
-    "Notes":"AT-4c"
+    "Weapons": ["AT-4c"]
   },
   {
     "Name":"BMP-3",
@@ -4817,7 +4996,11 @@
     "Equip":"s,n,i",
     "Cap":1,
     "Msl":null,
-    "Notes":"AT-10; 100mm\/L22? R (Russia)"
+    "Weapons":
+		[
+			"100mm\/L22? R (Russia)",
+			"AT-10 'STABBER'"
+		]
   },
   {
     "Name":"BMP-3",
@@ -4837,7 +5020,7 @@
     "Equip":null,
     "Cap":null,
     "Msl":null,
-    "Notes":"30mm R (Russia)"
+    "Weapons": ["30mm R (Russia)"]
   },
   {
     "Name":"BMP-3",
@@ -4857,7 +5040,7 @@
     "Equip":"s,n,i",
     "Cap":1,
     "Msl":null,
-    "Notes":"AT-10b"
+    "Weapons": ["AT-10b"]
   },
   {
     "Name":"BMP-3",
@@ -4877,7 +5060,7 @@
     "Equip":null,
     "Cap":null,
     "Msl":null,
-    "Notes":"30mm R (Russia)"
+    "Weapons": ["30mm R (Russia)"]
   },
   {
     "Name":"BMP-3",
@@ -4897,7 +5080,7 @@
     "Equip":"s,n,i",
     "Cap":1,
     "Msl":null,
-    "Notes":"AT-10c"
+    "Weapons": ["AT-10c"]
   },
   {
     "Name":"BMP-3",
@@ -4917,7 +5100,7 @@
     "Equip":null,
     "Cap":null,
     "Msl":null,
-    "Notes":"30mm R (Russia)"
+    "Weapons": ["30mm R (Russia)"]
   },
   {
     "Name":"BMD-1",
@@ -4937,7 +5120,11 @@
     "Equip":"n,i",
     "Cap":1,
     "Msl":null,
-    "Notes":"AT-3b; 73mm\/L32 Rckt Gun(Russia)"
+    "Weapons":
+		[
+			"73mm\/L32 Rckt Gun(Russia)",
+			"AT-3b"
+		]
   },
   {
     "Name":"BMD-1",
@@ -4957,7 +5144,7 @@
     "Equip":"n,i",
     "Cap":1,
     "Msl":null,
-    "Notes":"AT-3c"
+    "Weapons": ["AT-3c"]
   },
   {
     "Name":"BMD-1",
@@ -4977,7 +5164,7 @@
     "Equip":"n,i",
     "Cap":1,
     "Msl":null,
-    "Notes":"AT-3c"
+    "Weapons": ["AT-3c"]
   },
   {
     "Name":"BMD-1",
@@ -4997,7 +5184,7 @@
     "Equip":"n,i",
     "Cap":1,
     "Msl":null,
-    "Notes":"AT-3d"
+    "Weapons": ["AT-3d"]
   },
   {
     "Name":"BTR-D",
@@ -5017,7 +5204,7 @@
     "Equip":"n,i",
     "Cap":1,
     "Msl":null,
-    "Notes":"7.62mm MG"
+    "Weapons": ["7.62mm MG"]
   },
   {
     "Name":"BMD-1P",
@@ -5037,7 +5224,11 @@
     "Equip":"n,i",
     "Cap":1,
     "Msl":null,
-    "Notes":"AT-4; 73mm\/L32 Rckt Gun(Russia)"
+    "Weapons":
+		[
+			"73mm\/L32 Rckt Gun(Russia)",
+			"AT-4"
+		]
   },
   {
     "Name":"BMD-1P",
@@ -5057,7 +5248,11 @@
     "Equip":"n,i",
     "Cap":1,
     "Msl":null,
-    "Notes":"AT-4; 73mm\/L32 Rckt Gun(Russia)"
+    "Weapons":
+		[
+			"73mm\/L32 Rckt Gun(Russia)",
+			"AT-4"
+		]
   },
   {
     "Name":"BMD-1P",
@@ -5077,7 +5272,7 @@
     "Equip":"n,i",
     "Cap":1,
     "Msl":null,
-    "Notes":"AT-4b"
+    "Weapons": ["AT-4b"]
   },
   {
     "Name":"BMD-1P",
@@ -5097,7 +5292,7 @@
     "Equip":"n,i",
     "Cap":1,
     "Msl":null,
-    "Notes":"AT-4b"
+    "Weapons": ["AT-4b"]
   },
   {
     "Name":"BMD-1P",
@@ -5117,7 +5312,7 @@
     "Equip":"n,i",
     "Cap":1,
     "Msl":null,
-    "Notes":"AT-4c"
+    "Weapons": ["AT-4c"]
   },
   {
     "Name":"BMD-2",
@@ -5137,7 +5332,11 @@
     "Equip":"s,n,i",
     "Cap":1,
     "Msl":null,
-    "Notes":"AT-5; 30mm R (Russia)"
+    "Weapons":
+		[
+			"30mm R (Russia)",
+			"AT-5"
+		]
   },
   {
     "Name":"BMD-2",
@@ -5157,7 +5356,11 @@
     "Equip":"s,n,i",
     "Cap":1,
     "Msl":null,
-    "Notes":"AT-5; 30mm R (Russia)"
+    "Weapons":
+		[
+			"30mm R (Russia)",
+			"AT-5"
+		]
   },
   {
     "Name":"BMD-2",
@@ -5177,7 +5380,7 @@
     "Equip":"s,n,i",
     "Cap":1,
     "Msl":null,
-    "Notes":"AT-5M"
+    "Weapons": ["AT-5M"]
   },
   {
     "Name":"BMD-3",
@@ -5197,7 +5400,11 @@
     "Equip":"s,n,i",
     "Cap":1,
     "Msl":null,
-    "Notes":"AT-5; 30mm R (Russia)"
+    "Weapons":
+		[
+			"30mm R (Russia)",
+			"AT-5"
+		]
   },
   {
     "Name":" ",
@@ -5217,7 +5424,7 @@
     "Equip":null,
     "Cap":null,
     "Msl":null,
-    "Notes":"30mm AGS-17 (Russia)"
+    "Weapons": ["30mm AGS-17 (Russia)"]
   },
   {
     "Name":" ",
@@ -5237,7 +5444,7 @@
     "Equip":"s,n,i",
     "Cap":1,
     "Msl":null,
-    "Notes":null
+    "Weapons": [null]
   },
   {
     "Name":" ",
@@ -5257,7 +5464,7 @@
     "Equip":null,
     "Cap":null,
     "Msl":null,
-    "Notes":null
+    "Weapons": [null]
   },
   {
     "Name":" ",
@@ -5277,7 +5484,7 @@
     "Equip":"s,n,i",
     "Cap":1,
     "Msl":null,
-    "Notes":"AT-5M"
+    "Weapons": ["AT-5M"]
   },
   {
     "Name":" ",
@@ -5297,7 +5504,7 @@
     "Equip":null,
     "Cap":null,
     "Msl":null,
-    "Notes":"AT-5M"
+    "Weapons": ["AT-5M"]
   },
   {
     "Name":"BMD-4",
@@ -5317,7 +5524,11 @@
     "Equip":"s,t,n",
     "Cap":1,
     "Msl":null,
-    "Notes":"AT-10c; 100mm\/L22? R (Russia)"
+    "Weapons":
+		[
+			"100mm\/L22? R (Russia)",
+			"AT-10c"
+		]
   },
   {
     "Name":" ",
@@ -5337,7 +5548,11 @@
     "Equip":null,
     "Cap":1,
     "Msl":null,
-    "Notes":"AT-5M; 30mm R (Russia)"
+    "Weapons":
+		[
+			"30mm R (Russia)",
+			"AT-5M"
+		]
   },
   {
     "Name":"BTR-40",
@@ -5357,7 +5572,7 @@
     "Equip":"o",
     "Cap":1,
     "Msl":null,
-    "Notes":"7.62mm MG"
+    "Weapons": ["7.62mm MG"]
   },
   {
     "Name":"BTR-40B",
@@ -5377,7 +5592,7 @@
     "Equip":null,
     "Cap":1,
     "Msl":null,
-    "Notes":"7.62mm MG"
+    "Weapons": ["7.62mm MG"]
   },
   {
     "Name":"BTR-152",
@@ -5397,7 +5612,7 @@
     "Equip":"o",
     "Cap":1,
     "Msl":null,
-    "Notes":"7.62mm MG"
+    "Weapons": ["7.62mm MG"]
   },
   {
     "Name":"BTR-152V1",
@@ -5417,7 +5632,7 @@
     "Equip":"i,o",
     "Cap":1,
     "Msl":null,
-    "Notes":"7.62mm MG"
+    "Weapons": ["7.62mm MG"]
   },
   {
     "Name":"BTR-152K",
@@ -5437,7 +5652,7 @@
     "Equip":"i",
     "Cap":1,
     "Msl":null,
-    "Notes":"7.62mm MG"
+    "Weapons": ["7.62mm MG"]
   },
   {
     "Name":"BTR-60P",
@@ -5457,7 +5672,7 @@
     "Equip":"o",
     "Cap":1,
     "Msl":null,
-    "Notes":null
+    "Weapons": [null]
   },
   {
     "Name":"BTR-60PA",
@@ -5477,7 +5692,7 @@
     "Equip":"n",
     "Cap":1,
     "Msl":null,
-    "Notes":null
+    "Weapons": [null]
   },
   {
     "Name":"BTR-60PB",
@@ -5497,7 +5712,7 @@
     "Equip":"n,i",
     "Cap":1,
     "Msl":null,
-    "Notes":"14.5mm HMG"
+    "Weapons": ["14.5mm HMG"]
   },
   {
     "Name":"BTR-70",
@@ -5517,7 +5732,7 @@
     "Equip":"n,i",
     "Cap":1,
     "Msl":null,
-    "Notes":"14.5mm HMG"
+    "Weapons": ["14.5mm HMG"]
   },
   {
     "Name":"BTR-80",
@@ -5537,7 +5752,7 @@
     "Equip":"n,i",
     "Cap":1,
     "Msl":null,
-    "Notes":"14.5mm HMG"
+    "Weapons": ["14.5mm HMG"]
   },
   {
     "Name":"BTR-80A",
@@ -5557,7 +5772,7 @@
     "Equip":"s,n,i",
     "Cap":1,
     "Msl":null,
-    "Notes":"30mm R (Russia)"
+    "Weapons": ["30mm R (Russia)"]
   },
   {
     "Name":"PT-76",
@@ -5577,7 +5792,7 @@
     "Equip":"-",
     "Cap":"-",
     "Msl":null,
-    "Notes":"76mm\/L43 R (Russia)"
+    "Weapons": ["76mm\/L43 R (Russia)"]
   },
   {
     "Name":"PT-76",
@@ -5597,7 +5812,7 @@
     "Equip":"-",
     "Cap":"-",
     "Msl":null,
-    "Notes":"76mm\/L43 R (Russia)"
+    "Weapons": ["76mm\/L43 R (Russia)"]
   },
   {
     "Name":"PT-76B",
@@ -5617,7 +5832,7 @@
     "Equip":"s,n",
     "Cap":"-",
     "Msl":null,
-    "Notes":"76mm\/L43 R (Russia)"
+    "Weapons": ["76mm\/L43 R (Russia)"]
   },
   {
     "Name":"BRDM-1",
@@ -5637,7 +5852,7 @@
     "Equip":"n",
     "Cap":"-",
     "Msl":"-",
-    "Notes":"7.62mm MG"
+    "Weapons": ["7.62mm MG"]
   },
   {
     "Name":"BRDM-2",
@@ -5657,7 +5872,7 @@
     "Equip":"n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"14.5mm HMG"
+    "Weapons": ["14.5mm HMG"]
   },
   {
     "Name":"BRM-1",
@@ -5677,7 +5892,7 @@
     "Equip":"n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"73mm\/L32 Rckt Gun(Russia)"
+    "Weapons": ["73mm\/L32 Rckt Gun(Russia)"]
   },
   {
     "Name":"BRM-1",
@@ -5697,7 +5912,7 @@
     "Equip":"n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"73mm\/L32 Rckt Gun(Russia)"
+    "Weapons": ["73mm\/L32 Rckt Gun(Russia)"]
   },
   {
     "Name":"BRM-1",
@@ -5717,7 +5932,7 @@
     "Equip":"n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"73mm\/L32 Rckt Gun(Russia)"
+    "Weapons": ["73mm\/L32 Rckt Gun(Russia)"]
   },
   {
     "Name":"BRM-1",
@@ -5737,7 +5952,7 @@
     "Equip":"n,t",
     "Cap":"-",
     "Msl":null,
-    "Notes":"73mm\/L32 Rckt Gun(Russia)"
+    "Weapons": ["73mm\/L32 Rckt Gun(Russia)"]
   },
   {
     "Name":"1V18 \/ 1V19 FO Vehicle",
@@ -5757,7 +5972,7 @@
     "Equip":"n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"BTR-60PB FO vehicle"
+    "Weapons": ["BTR-60PB FO vehicle"]
   },
   {
     "Name":"1V14 \/ 1V15 FO Vehicle",
@@ -5777,7 +5992,11 @@
     "Equip":"n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"12.7mm HMG; MT-LB FO Veh."
+    "Weapons":
+		[
+			"MT-LB FO Veh.",
+			"12.7mm HMG"
+		]
   },
   {
     "Name":"PRP-3 FO Vehicle",
@@ -5797,7 +6016,11 @@
     "Equip":"n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"7.62mm MG; BMP FO Veh."
+    "Weapons":
+		[
+			"BMP FO Veh.",
+			"7.62mm MG"
+		]
   },
   {
     "Name":"PRP-4 FO Vehicle",
@@ -5817,7 +6040,11 @@
     "Equip":"n,t",
     "Cap":"-",
     "Msl":null,
-    "Notes":"7.62mm MG; BMP FO Veh."
+    "Weapons":
+		[
+			"BMP FO Veh.",
+			"7.62mm MG"
+		]
   },
   {
     "Name":"1V118 FO Vehicle",
@@ -5837,7 +6064,11 @@
     "Equip":"n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"7.62mm MG; BMD FO Veh."
+    "Weapons":
+		[
+			"BMD FO Veh.",
+			"7.62mm MG"
+		]
   },
   {
     "Name":"IT-1 Tank Destroyer",
@@ -5857,7 +6088,11 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":"u",
-    "Notes":"3M7 Drakon; 7.62mm MG"
+    "Weapons":
+		[
+			"7.62mm MG",
+			"3M7 Drakon"
+		]
   },
   {
     "Name":"GAZ AT-1 ",
@@ -5877,7 +6112,7 @@
     "Equip":"r",
     "Cap":"-",
     "Msl":null,
-    "Notes":"AT-1"
+    "Weapons": ["AT-1"]
   },
   {
     "Name":"BRDM-1 AT-1 ",
@@ -5897,7 +6132,7 @@
     "Equip":"f,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"AT-1"
+    "Weapons": ["AT-1"]
   },
   {
     "Name":"BRDM-1 AT-2a ",
@@ -5917,7 +6152,7 @@
     "Equip":"f,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"AT-2a"
+    "Weapons": ["AT-2a"]
   },
   {
     "Name":"BRDM-1 AT-2b",
@@ -5937,7 +6172,7 @@
     "Equip":"f,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"AT-2b"
+    "Weapons": ["AT-2b"]
   },
   {
     "Name":"BRDM-1 AT-2c",
@@ -5957,7 +6192,7 @@
     "Equip":"f,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"AT-2c"
+    "Weapons": ["AT-2c"]
   },
   {
     "Name":"BRDM-1 AT-3b",
@@ -5977,7 +6212,11 @@
     "Equip":"f,i",
     "Cap":"-",
     "Msl":"u",
-    "Notes":"+1 to terrain save; AT-3b"
+    "Weapons":
+		[
+			"AT-3b",
+			"+1 to terrain save"
+		]
   },
   {
     "Name":"BRDM-1 AT-3c",
@@ -5997,7 +6236,11 @@
     "Equip":"f,i",
     "Cap":"-",
     "Msl":"u",
-    "Notes":"+1 to terrain save; AT-3c"
+    "Weapons":
+		[
+			"AT-3c",
+			"+1 to terrain save"
+		]
   },
   {
     "Name":"BRDM-1 AT-3d",
@@ -6017,7 +6260,11 @@
     "Equip":"f,i",
     "Cap":"-",
     "Msl":"u",
-    "Notes":"+1 to terrain save; AT-3d"
+    "Weapons":
+		[
+			"AT-3d",
+			"+1 to terrain save"
+		]
   },
   {
     "Name":"BRDM-2 AT-3b",
@@ -6037,7 +6284,11 @@
     "Equip":"f,i",
     "Cap":"-",
     "Msl":"u",
-    "Notes":"+1 to terrain save; AT-3b"
+    "Weapons":
+		[
+			"AT-3b",
+			"+1 to terrain save"
+		]
   },
   {
     "Name":"BRDM-2 AT-3c",
@@ -6057,7 +6308,11 @@
     "Equip":"f,i",
     "Cap":"-",
     "Msl":"u",
-    "Notes":"+1 to terrain save; AT-3c"
+    "Weapons":
+		[
+			"AT-3c",
+			"+1 to terrain save"
+		]
   },
   {
     "Name":"BRDM-2 AT-3d",
@@ -6077,7 +6332,11 @@
     "Equip":"f,i",
     "Cap":"-",
     "Msl":"u",
-    "Notes":"+1 to terrain save; AT-3d"
+    "Weapons":
+		[
+			"AT-3d",
+			"+1 to terrain save"
+		]
   },
   {
     "Name":"BRDM-2 AT-2a",
@@ -6097,7 +6356,11 @@
     "Equip":"f,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"+1 to terrain save; AT-2a"
+    "Weapons":
+		[
+			"AT-2a",
+			"+1 to terrain save"
+		]
   },
   {
     "Name":"BRDM-2 AT-2b",
@@ -6117,7 +6380,11 @@
     "Equip":"f,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"+1 to terrain save; AT-2b"
+    "Weapons":
+		[
+			"AT-2b",
+			"+1 to terrain save"
+		]
   },
   {
     "Name":"BRDM-2 AT-2c",
@@ -6137,7 +6404,11 @@
     "Equip":"f,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"+1 to terrain save; AT-2c"
+    "Weapons":
+		[
+			"AT-2c",
+			"+1 to terrain save"
+		]
   },
   {
     "Name":"BRDM-2 AT-5",
@@ -6157,7 +6428,11 @@
     "Equip":"f,i",
     "Cap":"-",
     "Msl":"u",
-    "Notes":"+1 to terrain save; AT-5"
+    "Weapons":
+		[
+			"AT-5",
+			"+1 to terrain save"
+		]
   },
   {
     "Name":"BRDM-2 AT-5 M ",
@@ -6177,7 +6452,11 @@
     "Equip":"f,i",
     "Cap":"-",
     "Msl":"u",
-    "Notes":"+1 to terrain save; AT-5M"
+    "Weapons":
+		[
+			"AT-5M",
+			"+1 to terrain save"
+		]
   },
   {
     "Name":"9P149 Tank Destroyer",
@@ -6197,7 +6476,11 @@
     "Equip":"n,i",
     "Cap":1,
     "Msl":"u",
-    "Notes":"+1 to terrain save; AT-6"
+    "Weapons":
+		[
+			"AT-6",
+			"+1 to terrain save"
+		]
   },
   {
     "Name":"9P149 Tank Destroyer",
@@ -6217,7 +6500,11 @@
     "Equip":"n,i",
     "Cap":1,
     "Msl":"u",
-    "Notes":"+1 to terrain save; AT-6M1"
+    "Weapons":
+		[
+			"AT-6M1",
+			"+1 to terrain save"
+		]
   },
   {
     "Name":"9P149 Tank Destroyer",
@@ -6237,7 +6524,11 @@
     "Equip":"n,i",
     "Cap":1,
     "Msl":"u",
-    "Notes":"+1 to terrain save; AT-6M2"
+    "Weapons":
+		[
+			"AT-6M2",
+			"+1 to terrain save"
+		]
   },
   {
     "Name":"9P162 Tank Destroyer",
@@ -6257,7 +6548,11 @@
     "Equip":"s,n,t",
     "Cap":1,
     "Msl":"u",
-    "Notes":"+1 to terrain save; AT-14"
+    "Weapons":
+		[
+			"AT-14",
+			"+1 to terrain save"
+		]
   },
   {
     "Name":"9P157 Tank Destroyer",
@@ -6277,7 +6572,11 @@
     "Equip":"s,n,t",
     "Cap":1,
     "Msl":"u",
-    "Notes":"+1 to terrain save; AT-15"
+    "Weapons":
+		[
+			"AT-15",
+			"+1 to terrain save"
+		]
   },
   {
     "Name":"ISU-152",
@@ -6297,7 +6596,7 @@
     "Equip":"f",
     "Cap":"-",
     "Msl":null,
-    "Notes":"152mm\/L28 R (Russia)"
+    "Weapons": ["152mm\/L28 R (Russia)"]
   },
   {
     "Name":"SU-100",
@@ -6317,7 +6616,7 @@
     "Equip":"f",
     "Cap":"-",
     "Msl":null,
-    "Notes":"100mm\/L56 R (Russia)"
+    "Weapons": ["100mm\/L56 R (Russia)"]
   },
   {
     "Name":"SU-100",
@@ -6337,7 +6636,7 @@
     "Equip":"f",
     "Cap":"-",
     "Msl":null,
-    "Notes":"100mm\/L56 R (Russia)"
+    "Weapons": ["100mm\/L56 R (Russia)"]
   },
   {
     "Name":"SU-100",
@@ -6357,7 +6656,7 @@
     "Equip":"f",
     "Cap":"-",
     "Msl":null,
-    "Notes":"100mm\/L56 R (Russia)"
+    "Weapons": ["100mm\/L56 R (Russia)"]
   },
   {
     "Name":"SU-100",
@@ -6377,7 +6676,7 @@
     "Equip":"f",
     "Cap":"-",
     "Msl":null,
-    "Notes":"100mm\/L56 R (Russia)"
+    "Weapons": ["100mm\/L56 R (Russia)"]
   },
   {
     "Name":"ASU-57",
@@ -6397,7 +6696,7 @@
     "Equip":"o,f",
     "Cap":"-",
     "Msl":null,
-    "Notes":"57mm\/L73 R (Russia)"
+    "Weapons": ["57mm\/L73 R (Russia)"]
   },
   {
     "Name":"ASU-85",
@@ -6417,7 +6716,7 @@
     "Equip":"n,i,f",
     "Cap":"-",
     "Msl":null,
-    "Notes":"85mm\/L74 R (Russia)"
+    "Weapons": ["85mm\/L74 R (Russia)"]
   },
   {
     "Name":"2S25 SP 125mm AT Gun",
@@ -6437,7 +6736,11 @@
     "Equip":"s,n,t",
     "Cap":"-",
     "Msl":null,
-    "Notes":"AT-11; 125mm\/L48 SB (Russia)"
+    "Weapons":
+		[
+			"125mm\/L48 SB (Russia)",
+			"AT-11 'SNIPER'"
+		]
   },
   {
     "Name":"B-10 82mm RR",
@@ -6457,7 +6760,7 @@
     "Equip":"-",
     "Cap":"\u00bd ",
     "Msl":null,
-    "Notes":"82mm RR (Russia)"
+    "Weapons": ["82mm RR (Russia)"]
   },
   {
     "Name":"B-11 107mm RR",
@@ -6477,7 +6780,7 @@
     "Equip":"-",
     "Cap":"\u00bd ",
     "Msl":null,
-    "Notes":"107mm RR (Russia)"
+    "Weapons": ["107mm RR (Russia)"]
   },
   {
     "Name":"SPG-9 Rocket Gun",
@@ -6497,7 +6800,7 @@
     "Equip":"-",
     "Cap":"\u00bd ",
     "Msl":null,
-    "Notes":"73mm\/L32 Rckt Gun(Russia)"
+    "Weapons": ["73mm\/L32 Rckt Gun(Russia)"]
   },
   {
     "Name":"SPG-9 Rocket Gun",
@@ -6517,7 +6820,7 @@
     "Equip":"i",
     "Cap":"\u00bd ",
     "Msl":null,
-    "Notes":"73mm\/L32 Rckt Gun(Russia)"
+    "Weapons": ["73mm\/L32 Rckt Gun(Russia)"]
   },
   {
     "Name":"SPG-9 Rocket Gun",
@@ -6537,7 +6840,7 @@
     "Equip":"i",
     "Cap":"\u00bd ",
     "Msl":null,
-    "Notes":"73mm\/L32 Rckt Gun(Russia)"
+    "Weapons": ["73mm\/L32 Rckt Gun(Russia)"]
   },
   {
     "Name":"ZIS-2 AT Gun",
@@ -6557,7 +6860,7 @@
     "Equip":"f",
     "Cap":1,
     "Msl":null,
-    "Notes":"57mm\/L73 R (Russia)"
+    "Weapons": ["57mm\/L73 R (Russia)"]
   },
   {
     "Name":"BS-3  Field Gun",
@@ -6577,7 +6880,7 @@
     "Equip":"f",
     "Cap":1,
     "Msl":null,
-    "Notes":"100mm\/L60 R (Russia)"
+    "Weapons": ["100mm\/L60 R (Russia)"]
   },
   {
     "Name":"BS-3  Field Gun",
@@ -6597,7 +6900,7 @@
     "Equip":"f",
     "Cap":1,
     "Msl":null,
-    "Notes":"100mm\/L60 R (Russia)"
+    "Weapons": ["100mm\/L60 R (Russia)"]
   },
   {
     "Name":"BS-3  Field Gun",
@@ -6617,7 +6920,7 @@
     "Equip":"f",
     "Cap":1,
     "Msl":null,
-    "Notes":"100mm\/L60 R (Russia)"
+    "Weapons": ["100mm\/L60 R (Russia)"]
   },
   {
     "Name":"BS-3  Field Gun",
@@ -6637,7 +6940,7 @@
     "Equip":"f",
     "Cap":1,
     "Msl":null,
-    "Notes":"100mm\/L60 R (Russia)"
+    "Weapons": ["100mm\/L60 R (Russia)"]
   },
   {
     "Name":"D-44 AT Gun",
@@ -6657,7 +6960,7 @@
     "Equip":"f",
     "Cap":1,
     "Msl":null,
-    "Notes":"85mm\/L55 R ZIS-S53(Russia)"
+    "Weapons": ["85mm\/L55 R ZIS-S53(Russia)"]
   },
   {
     "Name":"D-44 AT Gun",
@@ -6677,7 +6980,7 @@
     "Equip":"f",
     "Cap":1,
     "Msl":null,
-    "Notes":"85mm\/L55 R ZIS-S53(Russia)"
+    "Weapons": ["85mm\/L55 R ZIS-S53(Russia)"]
   },
   {
     "Name":"D-44 AT Gun",
@@ -6697,7 +7000,7 @@
     "Equip":"f",
     "Cap":1,
     "Msl":null,
-    "Notes":"85mm\/L55 R ZIS-S53(Russia)"
+    "Weapons": ["85mm\/L55 R ZIS-S53(Russia)"]
   },
   {
     "Name":"SD-44 AT Gun",
@@ -6717,7 +7020,7 @@
     "Equip":"f",
     "Cap":1,
     "Msl":null,
-    "Notes":"85mm\/L55 R ZIS-S53(Russia)"
+    "Weapons": ["85mm\/L55 R ZIS-S53(Russia)"]
   },
   {
     "Name":"SD-44 AT Gun",
@@ -6737,7 +7040,7 @@
     "Equip":"f",
     "Cap":1,
     "Msl":null,
-    "Notes":"85mm\/L55 R ZIS-S53(Russia)"
+    "Weapons": ["85mm\/L55 R ZIS-S53(Russia)"]
   },
   {
     "Name":"SD-44 AT Gun",
@@ -6757,7 +7060,7 @@
     "Equip":"f",
     "Cap":1,
     "Msl":null,
-    "Notes":"85mm\/L55 R ZIS-S53(Russia)"
+    "Weapons": ["85mm\/L55 R ZIS-S53(Russia)"]
   },
   {
     "Name":"D-48 AT Gun",
@@ -6777,7 +7080,7 @@
     "Equip":"f",
     "Cap":1,
     "Msl":null,
-    "Notes":"85mm\/L74 R (Russia)"
+    "Weapons": ["85mm\/L74 R (Russia)"]
   },
   {
     "Name":"T-12 AT Gun",
@@ -6797,7 +7100,7 @@
     "Equip":"f",
     "Cap":1,
     "Msl":null,
-    "Notes":"100mm\/L85 SB (Russia)"
+    "Weapons": ["100mm\/L85 SB (Russia)"]
   },
   {
     "Name":"T-12 AT Gun",
@@ -6817,7 +7120,7 @@
     "Equip":"f",
     "Cap":1,
     "Msl":null,
-    "Notes":"Towed by 6x6 Truck"
+    "Weapons": ["Towed by 6x6 Truck"]
   },
   {
     "Name":"T-12 AT Gun",
@@ -6837,7 +7140,7 @@
     "Equip":"f",
     "Cap":1,
     "Msl":null,
-    "Notes":"Towed by 6x6 Truck"
+    "Weapons": ["Towed by 6x6 Truck"]
   },
   {
     "Name":"T-12 AT Gun",
@@ -6857,7 +7160,7 @@
     "Equip":"f",
     "Cap":1,
     "Msl":null,
-    "Notes":"AT-10"
+    "Weapons": ["AT-10 'STABBER'"]
   },
   {
     "Name":"T-12 AT Gun",
@@ -6877,7 +7180,7 @@
     "Equip":"f",
     "Cap":1,
     "Msl":null,
-    "Notes":"AT-10b"
+    "Weapons": ["AT-10b"]
   },
   {
     "Name":"T-12 AT Gun",
@@ -6897,7 +7200,7 @@
     "Equip":"f",
     "Cap":1,
     "Msl":null,
-    "Notes":"AT-10c"
+    "Weapons": ["AT-10c"]
   },
   {
     "Name":"MT-12 AT Gun",
@@ -6917,7 +7220,7 @@
     "Equip":"f",
     "Cap":1,
     "Msl":null,
-    "Notes":"100mm\/L85 SB (Russia)"
+    "Weapons": ["100mm\/L85 SB (Russia)"]
   },
   {
     "Name":"MT-12 AT Gun",
@@ -6937,7 +7240,7 @@
     "Equip":"f",
     "Cap":1,
     "Msl":null,
-    "Notes":"Towed by MT-LB"
+    "Weapons": ["Towed by MT-LB"]
   },
   {
     "Name":"MT-12 AT Gun",
@@ -6957,7 +7260,7 @@
     "Equip":"f",
     "Cap":1,
     "Msl":null,
-    "Notes":"AT-10"
+    "Weapons": ["AT-10 'STABBER'"]
   },
   {
     "Name":"MT-12 AT Gun",
@@ -6977,7 +7280,7 @@
     "Equip":"f",
     "Cap":1,
     "Msl":null,
-    "Notes":"AT-10b"
+    "Weapons": ["AT-10b"]
   },
   {
     "Name":"MT-12 AT Gun",
@@ -6997,7 +7300,7 @@
     "Equip":"f",
     "Cap":1,
     "Msl":null,
-    "Notes":"AT-10c"
+    "Weapons": ["AT-10c"]
   },
   {
     "Name":"2A45M AT Gun",
@@ -7017,7 +7320,11 @@
     "Equip":"-",
     "Cap":1,
     "Msl":null,
-    "Notes":"AT-11; 125mm\/L48 SB (Russia)"
+    "Weapons":
+		[
+			"125mm\/L48 SB (Russia)",
+			"AT-11 'SNIPER'"
+		]
   },
   {
     "Name":"2A45M AT Gun",
@@ -7037,7 +7344,11 @@
     "Equip":"t",
     "Cap":1,
     "Msl":null,
-    "Notes":"AT-11; 125mm\/L48 SB (Russia)"
+    "Weapons":
+		[
+			"125mm\/L48 SB (Russia)",
+			"AT-11 'SNIPER'"
+		]
   },
   {
     "Name":"2A45M AT Gun(no msl",
@@ -7057,7 +7368,7 @@
     "Equip":"-",
     "Cap":1,
     "Msl":null,
-    "Notes":"125mm\/L48 SB (Russia)"
+    "Weapons": ["125mm\/L48 SB (Russia)"]
   },
   {
     "Name":"   ammo)",
@@ -7077,7 +7388,7 @@
     "Equip":"t",
     "Cap":1,
     "Msl":null,
-    "Notes":null
+    "Weapons": [null]
   },
   {
     "Name":"BTR-40A SP AAG",
@@ -7097,7 +7408,7 @@
     "Equip":"o",
     "Cap":"-",
     "Msl":null,
-    "Notes":"2x14.5mm HMG"
+    "Weapons": ["2x14.5mm HMG"]
   },
   {
     "Name":"BTR-152A SP AAG",
@@ -7117,7 +7428,7 @@
     "Equip":"o",
     "Cap":"-",
     "Msl":null,
-    "Notes":"2x14.5mm HMG"
+    "Weapons": ["2x14.5mm HMG"]
   },
   {
     "Name":"ZSU-57\/2 SP AAG",
@@ -7137,7 +7448,7 @@
     "Equip":"i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"2x57mm\/L71 R (Russia)"
+    "Weapons": ["2x57mm\/L71 R (Russia)"]
   },
   {
     "Name":"ZSU-23\/4 SP AAG",
@@ -7157,7 +7468,7 @@
     "Equip":"n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"23mm R (Russia)"
+    "Weapons": ["23mm R (Russia)"]
   },
   {
     "Name":"2S6M Tunguska SP SAM \/ ",
@@ -7177,7 +7488,11 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"SA-19; 2x30mm"
+    "Weapons":
+		[
+			"2x30mm",
+			"SA-19"
+		]
   },
   {
     "Name":"   AAG",
@@ -7197,7 +7512,11 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":"u",
-    "Notes":"SA-19; 2x30mm"
+    "Weapons":
+		[
+			"2x30mm",
+			"SA-19"
+		]
   },
   {
     "Name":"SA-8 SP SAM",
@@ -7217,7 +7536,7 @@
     "Equip":"-",
     "Cap":"-",
     "Msl":"u",
-    "Notes":"SA-8"
+    "Weapons": ["SA-8"]
   },
   {
     "Name":"SA-9 SP SAM",
@@ -7237,7 +7556,7 @@
     "Equip":"-",
     "Cap":"-",
     "Msl":"u",
-    "Notes":"SA-9"
+    "Weapons": ["SA-9"]
   },
   {
     "Name":"SA-13 SP SAM",
@@ -7257,7 +7576,7 @@
     "Equip":"n,i",
     "Cap":"-",
     "Msl":"u",
-    "Notes":"SA-13"
+    "Weapons": ["SA-13"]
   },
   {
     "Name":"SA-15 SP SAM",
@@ -7277,7 +7596,7 @@
     "Equip":"n,i",
     "Cap":"-",
     "Msl":"u",
-    "Notes":"SA-15"
+    "Weapons": ["SA-15"]
   },
   {
     "Name":"Pantsir-S1",
@@ -7297,7 +7616,11 @@
     "Equip":"s,n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"SA-19; 2x30mm"
+    "Weapons":
+		[
+			"2x30mm",
+			"SA-19"
+		]
   },
   {
     "Name":"12.7mm AAG",
@@ -7317,7 +7640,7 @@
     "Equip":"-",
     "Cap":"\u00bd ",
     "Msl":null,
-    "Notes":"12.7mm HMG AA"
+    "Weapons": ["12.7mm HMG AA"]
   },
   {
     "Name":"M1939 37mm AAG",
@@ -7337,7 +7660,7 @@
     "Equip":"-",
     "Cap":1,
     "Msl":null,
-    "Notes":"37mm\/L70 R AA (Russia)"
+    "Weapons": ["37mm\/L70 R AA (Russia)"]
   },
   {
     "Name":"ZPU-1 AAG",
@@ -7357,7 +7680,7 @@
     "Equip":"-",
     "Cap":1,
     "Msl":null,
-    "Notes":"2x14.5mm HMG"
+    "Weapons": ["2x14.5mm HMG"]
   },
   {
     "Name":"ZPU-2 AAG",
@@ -7377,7 +7700,7 @@
     "Equip":"-",
     "Cap":1,
     "Msl":null,
-    "Notes":"2x14.5mm HMG"
+    "Weapons": ["2x14.5mm HMG"]
   },
   {
     "Name":"ZPU-4 AAG",
@@ -7397,7 +7720,7 @@
     "Equip":"-",
     "Cap":1,
     "Msl":null,
-    "Notes":"4x14.5mm HMG"
+    "Weapons": ["4x14.5mm HMG"]
   },
   {
     "Name":"S-60 AAG",
@@ -7417,7 +7740,7 @@
     "Equip":"-",
     "Cap":1,
     "Msl":null,
-    "Notes":"57mm\/L71 R (Russia)"
+    "Weapons": ["57mm\/L71 R (Russia)"]
   },
   {
     "Name":"ZU-23\/2 AAG",
@@ -7437,7 +7760,7 @@
     "Equip":"-",
     "Cap":1,
     "Msl":null,
-    "Notes":"23mm R (Russia)"
+    "Weapons": ["23mm R (Russia)"]
   },
   {
     "Name":"AGS-17 AGL",
@@ -7457,7 +7780,7 @@
     "Equip":"-",
     "Cap":"\u00bd ",
     "Msl":null,
-    "Notes":"30mm AGS-17 (Russia)"
+    "Weapons": ["30mm AGS-17 (Russia)"]
   },
   {
     "Name":"AGS-30 AGL",
@@ -7477,7 +7800,7 @@
     "Equip":"-",
     "Cap":"\u00bd ",
     "Msl":null,
-    "Notes":"30mm AGS-30 (Russia)"
+    "Weapons": ["30mm AGS-30 (Russia)"]
   },
   {
     "Name":"MTU-12 AVLB",
@@ -7497,7 +7820,7 @@
     "Equip":"-",
     "Cap":"-",
     "Msl":null,
-    "Notes":null
+    "Weapons": [null]
   },
   {
     "Name":"MTU-55 AVLB",
@@ -7517,7 +7840,7 @@
     "Equip":"n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":null
+    "Weapons": [null]
   },
   {
     "Name":"MTU-20 AVLB",
@@ -7537,7 +7860,7 @@
     "Equip":"-",
     "Cap":"-",
     "Msl":null,
-    "Notes":null
+    "Weapons": [null]
   },
   {
     "Name":"MTU-72 AVLB",
@@ -7557,7 +7880,7 @@
     "Equip":"n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":null
+    "Weapons": [null]
   },
   {
     "Name":"MTU-90 AVLB",
@@ -7577,7 +7900,7 @@
     "Equip":"n,t",
     "Cap":"-",
     "Msl":null,
-    "Notes":null
+    "Weapons": [null]
   },
   {
     "Name":"GMZ Armored Minelayer",
@@ -7597,6 +7920,6 @@
     "Equip":"n,i",
     "Cap":"-",
     "Msl":null,
-    "Notes":"14.5mm HMG"
+    "Weapons": ["14.5mm HMG"]
   }
 ]

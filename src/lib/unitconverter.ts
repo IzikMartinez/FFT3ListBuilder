@@ -1,1 +1,1 @@
-export const inchesToCentimeters = (inches: string) => Math.round(Number(inches) * 2.54)
+export const inchesToCentimeters = (inches: number) => Math.round(inches * 2.54)

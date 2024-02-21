@@ -1,5 +1,7 @@
 <script lang="ts">
     import {onMount} from "svelte";
+    import ColumnHeading from "../fragments/ColumnHeading.svelte";
+    import ArmorFragments from "../fragments/ArmorFragments.svelte";
 
     export let text: string
     export let type: string
@@ -23,38 +25,30 @@
             const middleValue = middle !== '-' ? chemArmor(middle) : 0
             const firstValue = Number(first) + middleValue
             const lastValue = Number(last) + middleValue
-            return [first, firstValue, last, lastValue]
+            return [[Number(first), firstValue], [Number(last), lastValue]]
         } else {
             console.error(armor)
             throw new Error('Missing or invalid data in Armor')
         }
     }
     function splitArmor(armor: string) {
-        if(armor==='s')
-            return 'Soft'
-        else if (armor)
+        if(armor==='s' || !armor)
+            return [[0,0], [0,0]]
+        else
             return splitRegex(armor)
-        else return ""
     }
-    const [front, front_ce, flank, flank_ce] = splitArmor(text)
+
+    const [front, flank] = splitArmor(text)
 </script>
 
-<style>
-
-</style>
-
 <div class="flex flex-col mx-0 text-center">
-    {#if String(front) === "S"}
-        <div class="flex bg-red-700 text-white text-center items-center justify-center w-32 h-8 font-600">{type}</div>
+    <ColumnHeading text={type}/>
+    {#if text==="s"}
         <div class="mt-2">0</div>
     {:else}
-        <div class="flex bg-red-700 text-white text-center items-center justify-center w-32 h-8 font-600">{type}</div>
         <div class="flex flex-col text-left mt-1">
-            <div class="my-2"><span class="text-white bg-slate-800 rounded-md p-1">Front KE:</span> <span>{front}</span></div>
-            <div class="my-2"><span class="text-white bg-slate-800 rounded-md p-1">Front CE:</span> <span>{front_ce}</span></div>
-            <div class="my-2"><span class="text-white bg-slate-800 rounded-md p-1">Flank KE:</span> {flank}</div>
-            <div class="my-2"><span class="text-white bg-slate-800 rounded-md p-1">Flank CE:</span> {flank_ce}</div>
+            <ArmorFragments text="Front" value={front}/>
+            <ArmorFragments text="Flank" value={flank}/>
         </div>
-
     {/if}
 </div>

@@ -1,37 +1,35 @@
 <script lang="ts">
-    import type {TankData} from "../types";
-    import Attribute from "../fragments/attribute.svelte";
-    import MovementAttr from "../fragments/movementAttr.svelte"
-    import PointsAttr from "../fragments/pointsAttr.svelte"
-    import ArmorAttr from "../fragments/armorAttr.svelte"
+    import type {TankType} from "../types";
+    import Attribute from "./attribute.svelte";
+    import MovementAttr from "./movementAttr.svelte"
+    import PointsAttr from "./pointsAttr.svelte"
+    import ArmorAttr from "./armorAttr.svelte"
     import UnitName from "../fragments/UnitName.svelte";
-    export let items: TankData
+    import GunAttributes from "./GunAttributes.svelte";
+    import MissileAttr from "./MissileAttr.svelte";
 
+    export let items: TankType
+    let gunName = ""; let missileName = ""
+    $:{
+        [gunName, missileName] = items.Weapons
+    }
 </script>
 
-<div class="flex flex-col">
+<div class="flex flex-col w-3xl h-lg">
     <UnitName name={items.Name} era={items.Period} />
-    <div class="flex flex-row w-2/5 h-52 my-2 bg-red-100">
+    <div class="flex flex-row w-fill h-xs mb-4 rounded-b-2xl" bg-gradient="to-t from-slate-400">
         <div class="flex flex-row">
             <PointsAttr text={items.Points} type="Points"/>
             <ArmorAttr text={items.Armor} type="Armor"/>
             <MovementAttr text={items.Move} type="Move"/>
         </div>
         <div class="flex flex-col">
-            <span class="w-96 text-center text-white font-600 text-xl bg-red-800">Gun</span>
-            <div class="flex">
-                <Attribute text={items.GunRng} type="Range"/>
-                <Attribute text={items.GunROF} type="ROF"/>
-                <Attribute text={items.GunPen} type="Penetration"/>
-                <Attribute text={items.AI} type="Anti-Infantry"/>
+        <GunAttributes range={items.GunRng} rof={items.GunROF} penetration={items.GunPen} weapon={gunName} />
+        {#if missileName && items.MslPen !== "-"}
+            <div class="flex mt-4">
+                <MissileAttr mslRange={String(items.MslRng)} mslPen={String(items.MslPen)} mslROF={Number(items.MslROF)} weapon={missileName}/>
             </div>
-            {#if items.Msl}
-                <div class="flex">
-                    <Attribute text={items.MslRng} type="Missile Range"/>
-                    <Attribute text={items.MslROF} type="Missile ROF"/>
-                    <Attribute text={items.MslPen} type="Missile Penetration"/>
-                </div>
-            {/if}
+        {/if}
         </div>
 
     </div>

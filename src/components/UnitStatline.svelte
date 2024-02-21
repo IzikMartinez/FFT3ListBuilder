@@ -1,7 +1,7 @@
 <script lang="ts">
-    import type {TankData} from "../types";
-    import Attribute from "../fragments/attribute.svelte";
-    export let items: TankData
+    import type {TankType} from "../types";
+    import Attribute from "./attribute.svelte";
+    export let items: TankType
 
 </script>
 

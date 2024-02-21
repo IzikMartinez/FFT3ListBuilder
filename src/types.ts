@@ -1,4 +1,4 @@
-export type TankData = {
+export type TankType = {
     Name: string;
     Period: string;
     Points: number;
@@ -16,5 +16,5 @@ export type TankData = {
     Equip: string | null;
     Cap: string | null;
     Msl: null;
-    Notes: string;
+    Weapons: string;
 };
