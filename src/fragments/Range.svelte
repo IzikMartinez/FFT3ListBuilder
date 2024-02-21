@@ -15,6 +15,6 @@
         }
     }
 </script>
-<div class="flex w-auto text-center justify-center items-center">
+<div class="flex w-auto text-center justify-center items-center font-alumni text-lg font-700">
     {range}{unit}
 </div>

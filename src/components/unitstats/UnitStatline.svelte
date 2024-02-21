@@ -1,5 +1,5 @@
 <script lang="ts">
-    import type {TankType} from "../types";
+    import type {TankType} from "../../types";
     import Attribute from "./attribute.svelte";
     export let items: TankType
 

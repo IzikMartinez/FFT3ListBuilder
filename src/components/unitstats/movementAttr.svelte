@@ -1,9 +1,9 @@
 <script lang="ts">
     import {inchesToCentimeters} from "$lib/unitconverter";
     import {scaleCoefficient} from "$lib/store";
-    import Range from "../fragments/Range.svelte";
-    import ColumnHeading from "../fragments/ColumnHeading.svelte";
-    import MovementFragment from "../fragments/MovementFragment.svelte";
+    import Range from "../../fragments/Range.svelte";
+    import ColumnHeading from "../../fragments/statlines/ColumnHeading.svelte";
+    import MovementFragment from "../../fragments/statlines/MovementFragment.svelte";
 
     export let text: string
     export let type: string

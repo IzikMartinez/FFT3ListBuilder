@@ -1,7 +1,7 @@
 <script lang="ts">
     export let text: string | number | null
     export let type: string
-    import "../app.css";
+    import "../../app.css";
 
 </script>
 

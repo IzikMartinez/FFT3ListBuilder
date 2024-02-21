@@ -1,7 +1,7 @@
 <script lang="ts">
     import {onMount} from "svelte";
-    import ColumnHeading from "../fragments/ColumnHeading.svelte";
-    import ArmorFragments from "../fragments/ArmorFragments.svelte";
+    import ColumnHeading from "../../fragments/statlines/ColumnHeading.svelte";
+    import ArmorFragments from "../../fragments/statlines/ArmorFragments.svelte";
 
     export let text: string
     export let type: string

@@ -10,13 +10,13 @@ export let multiammo = false
 
 <div class="flex  bg-black">
     <div class="w-1/5">
-    <GunHeader header="Range" widthBig={true}/>
+    <GunHeader header="RANGE" widthBig={true}/>
     </div>
     <div class="w-1/5">
     <GunHeader header="ROF" />
     </div>
     <div class="w-1/5">
-    <GunHeader header="Hit" />
+    <GunHeader header="HIT" />
     </div>
     <div class="w-1/5">
     <GunHeader header="HE" />

@@ -1,8 +1,9 @@
 <script lang="ts">
-    import Range from "../fragments/Range.svelte";
+    import Range from "../../fragments/Range.svelte";
     import {scaleCoefficient} from "$lib/store";
-    import ColumnHeading from "../fragments/ColumnHeading.svelte";
-    import SubColumnHeading from "../fragments/SubColumnHeading.svelte";
+    import ColumnHeading from "../../fragments/statlines/ColumnHeading.svelte";
+    import SubColumnHeading from "../../fragments/statlines/SubColumnHeading.svelte";
+    import StatText from "../../fragments/StatText.svelte";
 
     export let mslRange: string
     export let mslROF: number
@@ -75,22 +76,22 @@
                 </div>
             </div>
         </div>
-        <div class="flex">
-            <div>
+        <div class="flex w-full">
+            <div class="w-1/5">
                 <SubColumnHeading text="ROF"/>
-                <div class="w-12 mt-1 py-1">{mslROF}</div>
+                <StatText text={String(mslROF)}/>
             </div>
             <div>
                 <SubColumnHeading text="PEN"/>
-                <div class="w-12 mt-1 py-1 ">{penetration}</div>
+                <StatText text={String(penetration)}/>
             </div>
-            <div>
+            <div class="w-1/5">
                 <SubColumnHeading text="HIT"/>
-                <div class="w-12 mt-1 py-1">{hit}</div>
+                <StatText text={String(hit)}/>
             </div>
-            <div>
+            <div class="w-1/5">
                 <SubColumnHeading text="M&S"/>
-                <div class="w-12 mt-1 py-1">{moveShoot}</div>
+                <StatText text={String(moveShoot)}/>
             </div>
         </div>
     </div>

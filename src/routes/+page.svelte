@@ -1,6 +1,6 @@
 <script lang="ts">
     import {scaleCoefficient, systemToggle} from "$lib/store";
-    import Unitcard from "../components/Unitcard.svelte";
+    import Unitcard from "../components/unitstats/Unitcard.svelte";
     import type {TankType} from "../types";
     let value = ""
     let era = ""

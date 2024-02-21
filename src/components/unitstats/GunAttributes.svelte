@@ -1,8 +1,8 @@
 <script lang="ts">
     import GunAttribute from "./GunAttribute.svelte";
     import {inchesToCentimeters} from "$lib/unitconverter.js";
-    import GunHeaders from "../fragments/GunHeaders.svelte";
-    import ColumnHeading from "../fragments/ColumnHeading.svelte";
+    import GunHeaders from "../../fragments/statlines/GunHeaders.svelte";
+    import ColumnHeading from "../../fragments/statlines/ColumnHeading.svelte";
 
     export let range = 0
     export let rof = 0

@@ -1,9 +1,9 @@
 <script lang="ts">
-    import ColumnHeading from "../fragments/ColumnHeading.svelte";
+    import ColumnHeading from "../../fragments/statlines/ColumnHeading.svelte";
 
     export let text: string | number | null
     export let type: string
-    import "../app.css";
+    import "../../app.css";
 
 </script>
 

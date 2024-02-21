@@ -1,9 +1,9 @@
 <script lang="ts">
     import {inchesToCentimeters} from "$lib/unitconverter.js";
-    import GunHeader from "../fragments/GunHeader.svelte";
+    import GunHeader from "../../fragments/statlines/GunHeader.svelte";
     import {scaleCoefficient} from "$lib/store";
-    import Range from "../fragments/Range.svelte";
-    import GunRows from "../fragments/GunRows.svelte";
+    import Range from "../../fragments/Range.svelte";
+    import GunRows from "../../fragments/statlines/GunRows.svelte";
 
     let range_cm = 0
     let scaledRange = 0

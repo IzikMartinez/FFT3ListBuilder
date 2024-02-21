@@ -1,10 +1,10 @@
 <script lang="ts">
-    import type {TankType} from "../types";
+    import type {TankType} from "../../types";
     import Attribute from "./attribute.svelte";
     import MovementAttr from "./movementAttr.svelte"
     import PointsAttr from "./pointsAttr.svelte"
     import ArmorAttr from "./armorAttr.svelte"
-    import UnitName from "../fragments/UnitName.svelte";
+    import UnitName from "../../fragments/statlines/UnitName.svelte";
     import GunAttributes from "./GunAttributes.svelte";
     import MissileAttr from "./MissileAttr.svelte";
 
@@ -17,7 +17,7 @@
 
 <div class="flex flex-col w-3xl h-lg">
     <UnitName name={items.Name} era={items.Period} />
-    <div class="flex flex-row w-fill h-xs mb-4 rounded-b-2xl" bg-gradient="to-t from-slate-400">
+    <div class="flex flex-row w-fill h-xs mb-4 rounded-b-2xl" bg-gradient="to-b to-sky-950 from-slate-400">
         <div class="flex flex-row">
             <PointsAttr text={items.Points} type="Points"/>
             <ArmorAttr text={items.Armor} type="Armor"/>
