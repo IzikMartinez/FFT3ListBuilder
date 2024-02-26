@@ -8,54 +8,37 @@
     let range_cm = 0
     let scaledRange = 0
     export let range: number
-    export let text: string
+    export let rangeBand: string
     export let rof = 0
-    export let penetration: string
+    export let penetration: string[]
 
     const height = '6'
     function getHitMod(hitRange: string) {
         const hitMap: {[key: string]: string} = {
             'Close': '3+',
-            'Effective': '4+',
+            'Effect': '4+',
             'Long': '5+'
         }
         return hitMap[hitRange]
     }
 
-
+    let calculatedPen: string[] = []
     function getPenMod(rangeType: string, pen: number) {
         const penMap: {[key: string]: number} = {
             'Close': pen+2,
-            'Effective': pen,
+            'Effect': pen,
             'Long': pen-2
         }
-        return penMap[rangeType]
-    }
-    // check if penetration has a slash
-    function isSlashed(pen: string) {
-        let slashed = false
-        try {
-            slashed = String(pen).includes('/')
-        } catch (error) {
-            console.error(`Error checking if ${pen} has a slash:\nMatch:${error}`)
-        } finally {
-            return slashed
-        }
-    }
-    function splitPenetration(pen: string) {
-        return String(pen).split('\/')
-    }
-    function getPenetration(pen: string) {
-        if(pen)
-            if(!isSlashed(pen)) return pen
-            else {
-                const [norm, heat] = splitPenetration(pen)
-                return [getPenMod(text, Number(norm)), heat]
-            }
-        else return ["",""]
+        return String(penMap[rangeType])
     }
     $: {
         scaledRange = range * $scaleCoefficient
+    }
+    $:{
+        calculatedPen.push(getPenMod(rangeBand, Number(penetration[0])))
+    }
+    $:{
+        if(penetration[1]) calculatedPen.push(penetration[1])
     }
 </script>
 
@@ -69,19 +52,13 @@
         <GunRows text={String(rof)}/>
     </div>
     <div class="w-1/5 {height}">
-        <GunRows text={getHitMod(text)}/>
+        <GunRows text={getHitMod(rangeBand)}/>
     </div>
-    {#if getPenetration(penetration).length > 1}
-        {#each getPenetration(penetration) as pen}
-            <div class="w-1/5 {height} ">
-                <GunRows text={String(pen)}/>
-            </div>
-        {/each}
-    {:else }
-        <div class="w-1/5 {height} ">
-            <GunRows text={String(getPenMod(text, Number(penetration)))}/>
+    {#each calculatedPen as pen}
+        <div class="w-1/5 {height}">
+            <GunRows text={pen}/>
         </div>
-    {/if}
+    {/each}
     <!--
 
         -->

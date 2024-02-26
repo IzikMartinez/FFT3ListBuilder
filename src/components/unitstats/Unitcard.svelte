@@ -1,5 +1,5 @@
 <script lang="ts">
-    import type {TankType} from "../../types";
+    import type {TankType, Vehicle} from "../../types";
     import Attribute from "./attribute.svelte";
     import MovementAttr from "./movementAttr.svelte"
     import PointsAttr from "./pointsAttr.svelte"
@@ -8,28 +8,29 @@
     import GunAttributes from "./GunAttributes.svelte";
     import MissileAttr from "./MissileAttr.svelte";
 
-    export let items: TankType
-    let gunName = ""; let missileName = ""
-    $:{
-        [gunName, missileName] = items.Weapons
-    }
+    export let items: Vehicle
+    let gunName = items.gun_name;
+    let missileName = ""
+
 </script>
 
 <div class="flex flex-col w-3xl h-lg">
-    <UnitName name={items.Name} era={items.Period} />
+    <UnitName name={items.Name} era={items} />
     <div class="flex flex-row w-fill h-xs mb-4 rounded-b-2xl" bg-gradient="to-b to-sky-950 from-slate-400">
         <div class="flex flex-row">
             <PointsAttr text={items.Points} type="Points"/>
-            <ArmorAttr text={items.Armor} type="Armor"/>
-            <MovementAttr text={items.Move} type="Move"/>
+            <ArmorAttr armor={items.armor} type="Armor"/>
+            <MovementAttr movement={items.move_value} movementTypes={items.move_type}/>
         </div>
         <div class="flex flex-col">
-        <GunAttributes range={items.GunRng} rof={items.GunROF} penetration={items.GunPen} weapon={gunName} />
+        <GunAttributes range={items.Gun_Rng} rof={items.Gun_ROF} penetration={items.Gun_Pen} weapon={gunName} />
+            <!--
         {#if missileName && items.MslPen !== "-"}
             <div class="flex mt-4">
                 <MissileAttr mslRange={String(items.MslRng)} mslPen={String(items.MslPen)} mslROF={Number(items.MslROF)} weapon={missileName}/>
             </div>
         {/if}
+        -->
         </div>
 
     </div>

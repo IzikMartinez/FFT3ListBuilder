@@ -1,41 +1,57 @@
 <script lang="ts">
     import {scaleCoefficient, systemToggle} from "$lib/store";
     import Unitcard from "../components/unitstats/Unitcard.svelte";
-    import type {TankType} from "../types";
+    import type {Vehicle} from "../types";
+    import Faction from "../components/Faction.svelte";
     let value = ""
     let era = ""
+    let selectedOption = "Troop Quality"
 
-  export let data
-  let tankData = data.units.data
-  let tanks = [] as TankType[]
+    export let data
+    let tankData = data.units.data.filter(unit => unit.era.start_era.match(/^8\d$/) || unit.era.end_era.match(/^[8,9,0,1]\d$/))
+    let tanks = [] as Vehicle[]
 
-  function handleInput(event: InputEvent) {
-      const target = event.target as HTMLInputElement
-      value = target.value
-      tanks = tankData.filter(item => item.Name.includes(value))
-  }
-  function handleEraInput(event: InputEvent) {
-      const target = event.target as HTMLInputElement
-      era = target.value
-      if(era === "")
-          tanks = tankData
-      if(tanks.length > 0)
-          tanks = tanks.filter(item => String(item.Period).includes(era))
-      else
-          tanks = tankData.filter(item => String(item.Period).includes(era))
-  }
+    const options = ["poor", "marginal", "fair", "average", "good", "excellent", "elite"];
 
-  function handleScaleClick() {
+    function handleInput(event: InputEvent) {
+        const target = event.target as HTMLInputElement
+        value = target.value.toUpperCase()
+        tanks = tankData.filter(item => item.Name.includes(value))
+    }
+
+    function handleEraInput(event: InputEvent) {
+        const target = event.target as HTMLInputElement
+        era = target.value
+        if(era === "")
+            tanks = tankData
+        if(tanks.length > 0)
+            tanks = tanks.filter(item => String(item.era.start_era).includes(era))
+        else
+            tanks = tankData.filter(item => String(item.era.start_era).includes(era))
+    }
+
+    function handleSelectChange(event: InputEvent) {
+        const target = event.target as HTMLSelectElement
+        selectedOption = target.value
+    }
+
+    function handleScaleClick() {
         if($scaleCoefficient === 2) scaleCoefficient.set(1)
-      else scaleCoefficient.set(2)
-  }
-  function handleSystemClick() {
+        else scaleCoefficient.set(2)
+    }
+
+    function handleSystemClick() {
        if($systemToggle === "Imperial") systemToggle.update(c => c = "Metric")
-      else systemToggle.update(c => c = "Imperial")
-  }
+       else systemToggle.update(c => c = "Imperial")
+    }
 </script>
 <input type="text" bind:value={value} on:input={handleInput} placeholder="Search Unit" />
 <input type="text" on:input={handleEraInput} placeholder="Search Era" bind:value={era}  />
+<select on:change={handleSelectChange} bind:value={selectedOption}>
+    {#each options as option}
+        <option>{option}</option>
+    {/each}
+</select>
 <button on:click={()=>handleScaleClick()}>toggle scale</button>
 <button on:click={() =>handleSystemClick()}>{$systemToggle}</button>
 {#if tanks.length === 0 && tankData.length > 0}

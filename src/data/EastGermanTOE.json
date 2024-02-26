@@ -1,0 +1,124 @@
+  {
+    "nation": "East Germany",
+    "motorized": {
+    "title": "Motorische Schutzen",
+    "bhq": {
+      "command": {"unit": "CAPC", "quantity": 1},
+      "support":
+      [
+        {"unit": "Jeep", "quantity": 1},
+        {"unit": "MPi-KM", "quantity": 2}
+      ]
+    },
+    "companies": {
+      "chq":
+      {
+        "command": {"unit":  "CAPC", "quantity": 1},
+        "support": [{"unit": "MPi-KM", "quantity": 1}]
+      },
+      "platoon_quantity": 3,
+      "platoon": {
+        "AFV": [{"unit": "APC","quantity": 3}],
+        "Infantry":
+        [
+          {"unit": "MPi-KM", "quantity": 3},
+          {"unit": "SAW", "quantity": 3},
+          {"unit":"RPK-74","quantity": 3},
+          {"unit":"RPG-7", "quantity": 3},
+          {"unit":"SA-7", "quantity": 1}
+        ]
+      }
+    },
+      "artillery": [
+        {"unit": "M120", "quantity": 6},
+        {"unit:": "MT-LB", "quantity":  6},
+        {"unit": "Jeep", "quantity": 1}
+      ],
+      "antiarmor": [
+        {"unit": "BTR-152", "quantity": 2},
+        {"unit": "SPG9", "quantity": 2}
+      ]
+  },
+    "mechanized": {
+      "title": "Motorische Schutzen",
+      "bhq": {
+        "command": {"unit": "BMP-1K", "quantity": 1},
+        "support": ["Truck", "Jeep", "AR squad", "AR squad"]
+      },
+      "companies": {
+        "chq": { "command": ["BMP-1"], "support": ["Truck", "Jeep", "8-man AR squad"]},
+        "platoon_quantity": 3,
+        "platoon": {
+          "AFV": [{"unit": "IFV", "quantity": 3}],
+          "Infantry":
+          [
+            {"unit": "MPi-KM", "quantity": 3},
+            {"unit": "SAW", "quantity": 3},
+            {"unit":"RPK-74","quantity": 3},
+            {"unit":"RPG-7", "quantity": 3},
+            {"unit":"SA-7", "quantity": 1}
+          ]
+        }
+      },
+      "artillery": [
+        {"unit": "M120", "quantity": 6},
+        {"unit:": "MT-LB", "quantity":  6},
+        {"unit": "Jeep", "quantity": 1}
+      ],
+      "antiarmor": [
+        {"unit": "BTR-152", "quantity": 2},
+        {"unit": "SPG9", "quantity": 2}
+      ]
+    },
+    "armor": {
+      "title": "Panzerkampfgruppe",
+      "bhq": {
+        "command": {"unit": "CT", "quantity": 1}
+      },
+      "companies": {
+        "chq": {
+          "command": {
+            "unit": "tank",
+            "quantity": 1
+          }
+        },
+        "platoon_quantity": 3,
+        "platoon": {
+          "AFV": [
+            {
+              "unit": "tank",
+              "quantity": 3
+            }
+          ]
+        }
+      }
+  },
+    "weapons": {
+        "APC": [
+          "BTR-60",
+          "BTR-70",
+          "BTR-152"
+        ],
+        "CAPC": [
+          "BTR-60PB",
+          "BTR-152",
+          "BTR-70"
+        ],
+        "IFV": [
+          "BMP-1",
+          "BMP-2"
+        ],
+        "tank": [
+          "T-54B",
+          "T-55M",
+          "T-72M"
+        ],
+        "CT": [
+          "T-54K",
+          "T-55K",
+          "T-72K",
+          "BMP-1K",
+          "BTR-50PU"
+        ]
+      }
+  }
