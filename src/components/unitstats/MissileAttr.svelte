@@ -4,86 +4,82 @@
     import ColumnHeading from "../../fragments/statlines/ColumnHeading.svelte";
     import SubColumnHeading from "../../fragments/statlines/SubColumnHeading.svelte";
     import StatText from "../../fragments/StatText.svelte";
+    import {onMount} from "svelte";
+    import type {MissileType} from "../../types";
 
-    export let mslRange: string
-    export let mslROF: number
-    export let mslPen: string
-    export let weapon: string
+    export let missile_name: string
+    export let unlimited_missiles: boolean
 
-    let mslRangeStart = 0
-    let mslRangeEnd = 0
-    const splitRange = ()=> {
-        let [start, end] = mslRange.split('-')
-        if(!start) [start, end] = ["0","0"]
-        const outStart = Number(start) * $scaleCoefficient
-        const outEnd = Number(end) * $scaleCoefficient
-        return [outStart, outEnd]
+    let missileData: MissileType[]
+    let missile: MissileType
+    async function fetchMissiles() {
+        const response = await fetch('src/data/missiles.json');
+        missileData = await response.json();
+        const tempMissile = missileData.find(item => item.missile_name == missile_name)
+        if(tempMissile)
+            missile = tempMissile
+            console.log(missile)
     }
 
-    const generationStats = (gen: string) => {
-        let hit = ""
+    onMount(() => {
+        fetchMissiles();
+    });
+    const generationStats = (gen: number): [number, string] => {
+        let hit = 0
         let moveShoot = ""
-        switch (Number(gen)) {
+        let unlim_mod = 0
+        if(unlimited_missiles) unlim_mod = 1
+        switch (gen) {
             case 1:
-                hit = "5+"
+                hit = 6-unlim_mod
                 moveShoot = "No"
                 break;
             case 2:
-                hit = "3+"
+                hit = 4-unlim_mod
                 moveShoot = "Yes"
                 break;
             default:
-                hit = "2+"
+                hit = 3-unlim_mod
                 moveShoot = "Yes"
                 break;
         }
         return [hit, moveShoot]
     }
 
-    function matchPenetration() {
-        const regex = /^(\d+\w?)(h?)(\d?)/
-        const match = mslPen.match(regex)
-        if(!match) {
-            throw Error(`No match found for missile penetration${mslPen}`)
-        }
-        const [, penetration, heat, generation] = match
-        const [hit, moveShoot] = generationStats(generation)
-        return [penetration, heat, hit, moveShoot]
-    }
-
-
-    let hit = ""
-    let moveShoot = ""
-    let heat = ""
-    let penetration = ""
-    $:{
-        [mslRangeStart, mslRangeEnd] = splitRange()
+    let hit: number
+    let moveShoot: string
+    let unlimitedString = "No"
+    $: {
+        if(missile)
+            [hit, moveShoot] = generationStats(missile.missile_generation)
     }
     $: {
-        [penetration, heat, hit, moveShoot] = matchPenetration()
+        if(unlimited_missiles) unlimitedString = "Yes"
     }
+
 </script>
 
 <div class="flex flex-col mx-1 text-center">
-    <ColumnHeading text={weapon} widthBig={true}/>
+    {#if missile}
+    <ColumnHeading text={missile_name} widthBig={true}/>
     <div class="flex">
         <div class="flex flex-col">
             <SubColumnHeading text="Range"/>
             <div class="flex mt-1 text-left w-26">
                 <div class="flex flex-1 w-1/3 py-1 bg-slate-800 rounded-l-md text-white font-600 items-center justify-center text-center">
-                    <Range range_in={mslRangeStart} /> -
-                    <Range range_in={mslRangeEnd} />
+                    <Range range_in={missile.missile_range[0]} /> -
+                    <Range range_in={missile.missile_range[1]} />
                 </div>
             </div>
         </div>
         <div class="flex w-full">
             <div class="w-1/5">
                 <SubColumnHeading text="ROF"/>
-                <StatText text={String(mslROF)}/>
+                <StatText text={String(missile.missile_rof)}/>
             </div>
             <div>
                 <SubColumnHeading text="PEN"/>
-                <StatText text={String(penetration)}/>
+                <StatText text={String(missile.missile_penetration)}/>
             </div>
             <div class="w-1/5">
                 <SubColumnHeading text="HIT"/>
@@ -93,6 +89,12 @@
                 <SubColumnHeading text="M&S"/>
                 <StatText text={String(moveShoot)}/>
             </div>
+            <div class="w-1/5">
+                <SubColumnHeading text="Unlimited"/>
+                <StatText text={unlimitedString}/>
+            </div>
+
         </div>
     </div>
+    {/if}
 </div>

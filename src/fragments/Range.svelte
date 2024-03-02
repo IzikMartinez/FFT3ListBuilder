@@ -1,16 +1,16 @@
 <script lang="ts">
-    import {systemToggle} from "$lib/store";
+    import {scaleCoefficient, systemToggle} from "$lib/store";
     import {inchesToCentimeters} from "$lib/unitconverter.js";
     export let range_in: number
     let range = 0
     let unit = "''"
     $: {
         if($systemToggle === "Imperial") {
-            range = range_in
+            range = range_in*$scaleCoefficient
             unit = "''"
         }
         else {
-            range = inchesToCentimeters(range_in)
+            range = inchesToCentimeters(range_in*$scaleCoefficient)
             unit = "cm"
         }
     }

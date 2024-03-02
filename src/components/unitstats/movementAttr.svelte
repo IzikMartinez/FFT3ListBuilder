@@ -1,6 +1,5 @@
 <script lang="ts">
     import {inchesToCentimeters} from "$lib/unitconverter";
-    import {scaleCoefficient} from "$lib/store";
     import Range from "../../fragments/Range.svelte";
     import ColumnHeading from "../../fragments/statlines/ColumnHeading.svelte";
     import MovementFragment from "../../fragments/statlines/MovementFragment.svelte";
@@ -33,10 +32,10 @@
     let road = 0
     let base = 0
     $: {
-        base = Number(movement) * $scaleCoefficient;
+        base = Number(movement);
     }
     $: {
-        [badGoing, rough, road] = terrainEffects(movementTypes[0], Number(movement)).map(value => value*$scaleCoefficient)
+        [badGoing, rough, road] = terrainEffects(movementTypes[0], Number(movement)).map(value => value)
     }
 </script>
 

@@ -10,8 +10,7 @@
 
     export let items: Vehicle
     let gunName = items.gun_name;
-    let missileName = ""
-
+    let missileName = items.missile_name
 </script>
 
 <div class="flex flex-col w-3xl h-lg">
@@ -24,13 +23,11 @@
         </div>
         <div class="flex flex-col">
         <GunAttributes range={items.Gun_Rng} rof={items.Gun_ROF} penetration={items.Gun_Pen} weapon={gunName} />
-            <!--
-        {#if missileName && items.MslPen !== "-"}
+        {#if missileName}
             <div class="flex mt-4">
-                <MissileAttr mslRange={String(items.MslRng)} mslPen={String(items.MslPen)} mslROF={Number(items.MslROF)} weapon={missileName}/>
+                <MissileAttr missile_name={missileName} unlimited_missiles={items.unlimited_missiles}/>
             </div>
         {/if}
-        -->
         </div>
 
     </div>

@@ -19,6 +19,15 @@ export type TankType = {
     Weapons: string;
 };
 
+export type MissileType = {
+    missile_range: [number, number];
+    missile_penetration: number;
+    missile_rof: number;
+    missile_name: string;
+    top_attack: boolean;
+    sam: boolean;
+    missile_generation: number;
+}
 
 export type Vehicle = {
     AI: number;
@@ -41,6 +50,14 @@ export type Vehicle = {
     unlimited_missiles: boolean;
     infantry_capacity: number;
 };
+
+export type UnitQuality = {
+    experience: string,
+    quality: number,
+    hit_mod: number,
+    rof_mod: number,
+    point_mod: number
+}
 
 
 export type NationData = {

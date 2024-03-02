@@ -954,7 +954,7 @@
     "end_era": "15"
   },
   "gun_name": "100mm\/L56 R (Russia)",
-  "missile_name": null,
+  "missile_name": "AT-10",
   "move_type": [
     "tracked"
   ],

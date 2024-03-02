@@ -1,11 +1,24 @@
 <script lang="ts">
-    import {scaleCoefficient, systemToggle} from "$lib/store";
+    import {scaleCoefficient, systemToggle, unitQuality} from "$lib/store";
     import Unitcard from "../components/unitstats/Unitcard.svelte";
-    import type {Vehicle} from "../types";
+    import type {UnitQuality, Vehicle} from "../types";
+    import { onMount } from 'svelte'; // import onMount
     import Faction from "../components/Faction.svelte";
     let value = ""
     let era = ""
-    let selectedOption = "Troop Quality"
+    let selectedOption = "average"
+    let qualityData: UnitQuality[]; // declare variable to hold quality data
+
+
+    // fetchQuality function
+    async function fetchQuality() {
+        const response = await fetch('src/data/quality.json');
+         qualityData = await response.json();
+    }
+
+    onMount(() => {
+        fetchQuality();
+    });
 
     export let data
     let tankData = data.units.data.filter(unit => unit.era.start_era.match(/^8\d$/) || unit.era.end_era.match(/^[8,9,0,1]\d$/))
@@ -33,6 +46,7 @@
     function handleSelectChange(event: InputEvent) {
         const target = event.target as HTMLSelectElement
         selectedOption = target.value
+        unitQuality.set(qualityData.find(item => item.experience === target.value)!)
     }
 
     function handleScaleClick() {
@@ -49,7 +63,7 @@
 <input type="text" on:input={handleEraInput} placeholder="Search Era" bind:value={era}  />
 <select on:change={handleSelectChange} bind:value={selectedOption}>
     {#each options as option}
-        <option>{option}</option>
+        <option selected={option === 'average'}>{option}</option>
     {/each}
 </select>
 <button on:click={()=>handleScaleClick()}>toggle scale</button>
