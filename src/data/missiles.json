@@ -1,0 +1,1430 @@
+[
+{
+  "missile_range": [
+    1,
+    20
+  ],
+  "missile_penetration": 17,
+  "missile_rof": 1,
+  "missile_name": "Milan 2",
+  "top_attack": false,
+  "sam": false,
+  "missile_generation": 2.0
+},
+{
+  "missile_range": [
+    5,
+    30
+  ],
+  "missile_penetration": 11,
+  "missile_rof": 1,
+  "missile_name": "AT-3b",
+  "top_attack": false,
+  "sam": false,
+  "missile_generation": 1.0
+},
+{
+  "missile_range": [
+    5,
+    30
+  ],
+  "missile_penetration": 12,
+  "missile_rof": 1,
+  "missile_name": "AT-3c",
+  "top_attack": false,
+  "sam": false,
+  "missile_generation": 2.0
+},
+{
+  "missile_range": [
+    1,
+    30
+  ],
+  "missile_penetration": 15,
+  "missile_rof": 1,
+  "missile_name": "AT-3d",
+  "top_attack": false,
+  "sam": false,
+  "missile_generation": 2.0
+},
+{
+  "missile_range": [
+    1,
+    20
+  ],
+  "missile_penetration": 11,
+  "missile_rof": 1,
+  "missile_name": "AT-4",
+  "top_attack": false,
+  "sam": false,
+  "missile_generation": 2.0
+},
+{
+  "missile_range": [
+    1,
+    25
+  ],
+  "missile_penetration": 12,
+  "missile_rof": 1,
+  "missile_name": "AT-4b",
+  "top_attack": false,
+  "sam": false,
+  "missile_generation": 2.0
+},
+{
+  "missile_range": [
+    1,
+    25
+  ],
+  "missile_penetration": 13,
+  "missile_rof": 1,
+  "missile_name": "AT-4c",
+  "top_attack": false,
+  "sam": false,
+  "missile_generation": 2.0
+},
+{
+  "missile_range": [
+    1,
+    40
+  ],
+  "missile_penetration": 13,
+  "missile_rof": 1,
+  "missile_name": "AT-5",
+  "top_attack": false,
+  "sam": false,
+  "missile_generation": 2.0
+},
+{
+  "missile_range": [
+    1,
+    40
+  ],
+  "missile_penetration": 16,
+  "missile_rof": 1,
+  "missile_name": "AT-5M",
+  "top_attack": false,
+  "sam": false,
+  "missile_generation": 2.0
+},
+{
+  "missile_range": [
+    1,
+    38
+  ],
+  "missile_penetration": 19,
+  "missile_rof": 1,
+  "missile_name": "TOW-2A",
+  "top_attack": false,
+  "sam": false,
+  "missile_generation": 2.0
+},
+{
+  "missile_range": [
+    1,
+    38
+  ],
+  "missile_penetration": 15,
+  "missile_rof": 1,
+  "missile_name": "TOW-2B",
+  "top_attack": true,
+  "sam": false,
+  "missile_generation": 2.0
+},
+{
+  "missile_range": [
+    5,
+    80
+  ],
+  "missile_penetration": 16,
+  "missile_rof": 1,
+  "missile_name": "ADATS",
+  "top_attack": false,
+  "sam": false,
+  "missile_generation": 2.0
+},
+{
+  "missile_range": [
+    1,
+    50
+  ],
+  "missile_penetration": 15,
+  "missile_rof": 1,
+  "missile_name": "AT-11",
+  "top_attack": false,
+  "sam": false,
+  "missile_generation": 2.0
+},
+{
+  "missile_range": [
+    5,
+    30
+  ],
+  "missile_penetration": 12,
+  "missile_rof": 1,
+  "missile_name": "Red Arrow 73C",
+  "top_attack": false,
+  "sam": false,
+  "missile_generation": 2.0
+},
+{
+  "missile_range": [
+    1,
+    40
+  ],
+  "missile_penetration": 13,
+  "missile_rof": 1,
+  "missile_name": "AT-10",
+  "top_attack": false,
+  "sam": false,
+  "missile_generation": 2.0
+},
+{
+  "missile_range": [
+    1,
+    30
+  ],
+  "missile_penetration": 12,
+  "missile_rof": 1,
+  "missile_name": "Red Arrow 8A",
+  "top_attack": false,
+  "sam": false,
+  "missile_generation": 2.0
+},
+{
+  "missile_range": [
+    1,
+    30
+  ],
+  "missile_penetration": 13,
+  "missile_rof": 1,
+  "missile_name": "Red Arrow 8C",
+  "top_attack": false,
+  "sam": false,
+  "missile_generation": 2.0
+},
+{
+  "missile_range": [
+    1,
+    40
+  ],
+  "missile_penetration": 13,
+  "missile_rof": 1,
+  "missile_name": "Red Arrow 8E",
+  "top_attack": false,
+  "sam": false,
+  "missile_generation": 2.0
+},
+{
+  "missile_range": [
+    1,
+    40
+  ],
+  "missile_penetration": 14,
+  "missile_rof": 1,
+  "missile_name": "Red Arrow 8L",
+  "top_attack": false,
+  "sam": false,
+  "missile_generation": 2.0
+},
+{
+  "missile_range": [
+    1,
+    50
+  ],
+  "missile_penetration": 16,
+  "missile_rof": 1,
+  "missile_name": "Red Arrow 9",
+  "top_attack": false,
+  "sam": false,
+  "missile_generation": 2.0
+},
+{
+  "missile_range": [
+    10,
+    100
+  ],
+  "missile_penetration": 2,
+  "missile_rof": 1,
+  "missile_name": "PL-9",
+  "top_attack": false,
+  "sam": true,
+  "missile_generation": 0.0
+},
+{
+  "missile_range": [
+    7,
+    100
+  ],
+  "missile_penetration": 2,
+  "missile_rof": 1,
+  "missile_name": "FM-90",
+  "top_attack": false,
+  "sam": true,
+  "missile_generation": 0.0
+},
+{
+  "missile_range": [
+    5,
+    40
+  ],
+  "missile_penetration": 2,
+  "missile_rof": 1,
+  "missile_name": "QW-2",
+  "top_attack": false,
+  "sam": true,
+  "missile_generation": 0.0
+},
+{
+  "missile_range": [
+    5,
+    72
+  ],
+  "missile_penetration": 2,
+  "missile_rof": 1,
+  "missile_name": "12.7mm HMG",
+  "top_attack": false,
+  "sam": true,
+  "missile_generation": 0.0
+},
+{
+  "missile_range": [
+    5,
+    30
+  ],
+  "missile_penetration": 13,
+  "missile_rof": 1,
+  "missile_name": "SS-11",
+  "top_attack": false,
+  "sam": false,
+  "missile_generation": 1.0
+},
+{
+  "missile_range": [
+    4,
+    20
+  ],
+  "missile_penetration": 14,
+  "missile_rof": 1,
+  "missile_name": "ENTAC",
+  "top_attack": false,
+  "sam": false,
+  "missile_generation": 1.0
+},
+{
+  "missile_range": [
+    1,
+    30
+  ],
+  "missile_penetration": 13,
+  "missile_rof": 1,
+  "missile_name": "TOW",
+  "top_attack": false,
+  "sam": false,
+  "missile_generation": 2.0
+},
+{
+  "missile_range": [
+    1,
+    38
+  ],
+  "missile_penetration": 13,
+  "missile_rof": 1,
+  "missile_name": "TOW-ER",
+  "top_attack": false,
+  "sam": false,
+  "missile_generation": 2.0
+},
+{
+  "missile_range": [
+    1,
+    38
+  ],
+  "missile_penetration": 14,
+  "missile_rof": 1,
+  "missile_name": "ITOW",
+  "top_attack": false,
+  "sam": false,
+  "missile_generation": 2.0
+},
+{
+  "missile_range": [
+    1,
+    38
+  ],
+  "missile_penetration": 15,
+  "missile_rof": 1,
+  "missile_name": "TOW-2",
+  "top_attack": false,
+  "sam": false,
+  "missile_generation": 2.0
+},
+{
+  "missile_range": [
+    1,
+    20
+  ],
+  "missile_penetration": 14,
+  "missile_rof": 1,
+  "missile_name": "Milan",
+  "top_attack": false,
+  "sam": false,
+  "missile_generation": 2.0
+},
+{
+  "missile_range": [
+    1,
+    40
+  ],
+  "missile_penetration": 15,
+  "missile_rof": 1,
+  "missile_name": "HOT 1",
+  "top_attack": false,
+  "sam": false,
+  "missile_generation": 2.0
+},
+{
+  "missile_range": [
+    1,
+    40
+  ],
+  "missile_penetration": 16,
+  "missile_rof": 1,
+  "missile_name": "HOT 2",
+  "top_attack": false,
+  "sam": false,
+  "missile_generation": 2.0
+},
+{
+  "missile_range": [
+    1,
+    40
+  ],
+  "missile_penetration": 18,
+  "missile_rof": 1,
+  "missile_name": "HOT 2T",
+  "top_attack": false,
+  "sam": false,
+  "missile_generation": 2.0
+},
+{
+  "missile_range": [
+    1,
+    40
+  ],
+  "missile_penetration": 19,
+  "missile_rof": 1,
+  "missile_name": "HOT 3",
+  "top_attack": false,
+  "sam": false,
+  "missile_generation": 2.0
+},
+{
+  "missile_range": [
+    5,
+    72
+  ],
+  "missile_penetration": 2,
+  "missile_rof": 1,
+  "missile_name": "Crotale",
+  "top_attack": false,
+  "sam": true,
+  "missile_generation": 0.0
+},
+{
+  "missile_range": [
+    5,
+    42
+  ],
+  "missile_penetration": 2,
+  "missile_rof": 1,
+  "missile_name": "Roland",
+  "top_attack": false,
+  "sam": true,
+  "missile_generation": 0.0
+},
+{
+  "missile_range": [
+    5,
+    72
+  ],
+  "missile_penetration": 2,
+  "missile_rof": 1,
+  "missile_name": "Shahine",
+  "top_attack": false,
+  "sam": true,
+  "missile_generation": 0.0
+},
+{
+  "missile_range": [
+    5,
+    30
+  ],
+  "missile_penetration": 13,
+  "missile_rof": 1,
+  "missile_name": " SS-11",
+  "top_attack": false,
+  "sam": false,
+  "missile_generation": 1.0
+},
+{
+  "missile_range": [
+    1,
+    40
+  ],
+  "missile_penetration": 15,
+  "missile_rof": 1,
+  "missile_name": " HOT 1",
+  "top_attack": false,
+  "sam": false,
+  "missile_generation": 2.0
+},
+{
+  "missile_range": [
+    1,
+    40
+  ],
+  "missile_penetration": 16,
+  "missile_rof": 1,
+  "missile_name": " HOT 2",
+  "top_attack": false,
+  "sam": false,
+  "missile_generation": 2.0
+},
+{
+  "missile_range": [
+    1,
+    40
+  ],
+  "missile_penetration": 18,
+  "missile_rof": 1,
+  "missile_name": " HOT 2T",
+  "top_attack": false,
+  "sam": false,
+  "missile_generation": 2.0
+},
+{
+  "missile_range": [
+    1,
+    40
+  ],
+  "missile_penetration": 19,
+  "missile_rof": 1,
+  "missile_name": " HOT 3",
+  "top_attack": false,
+  "sam": false,
+  "missile_generation": 2.0
+},
+{
+  "missile_range": [
+    1,
+    38
+  ],
+  "missile_penetration": 15,
+  "missile_rof": 1,
+  "missile_name": " TOW-2",
+  "top_attack": false,
+  "sam": false,
+  "missile_generation": 2.0
+},
+{
+  "missile_range": [
+    1,
+    38
+  ],
+  "missile_penetration": 19,
+  "missile_rof": 1,
+  "missile_name": " TOW-2A",
+  "top_attack": false,
+  "sam": false,
+  "missile_generation": 2.0
+},
+{
+  "missile_range": [
+    1,
+    38
+  ],
+  "missile_penetration": 15,
+  "missile_rof": 1,
+  "missile_name": " TOW-2B",
+  "top_attack": true,
+  "sam": false,
+  "missile_generation": 2.0
+},
+{
+  "missile_range": [
+    1,
+    32
+  ],
+  "missile_penetration": 2,
+  "missile_rof": 1,
+  "missile_name": "Stinger",
+  "top_attack": false,
+  "sam": true,
+  "missile_generation": 0.0
+},
+{
+  "missile_range": [
+    1,
+    80
+  ],
+  "missile_penetration": 16,
+  "missile_rof": 1,
+  "missile_name": "LAHAT",
+  "top_attack": true,
+  "sam": false,
+  "missile_generation": 2.0
+},
+{
+  "missile_range": [
+    2,
+    40
+  ],
+  "missile_penetration": 14,
+  "missile_rof": 1,
+  "missile_name": "Spike-LR (Gil)",
+  "top_attack": true,
+  "sam": false,
+  "missile_generation": 3.0
+},
+{
+  "missile_range": [
+    1,
+    40
+  ],
+  "missile_penetration": 13,
+  "missile_rof": 1,
+  "missile_name": "Type 79",
+  "top_attack": false,
+  "sam": false,
+  "missile_generation": 2.0
+},
+{
+  "missile_range": [
+    3,
+    18
+  ],
+  "missile_penetration": 12,
+  "missile_rof": 1,
+  "missile_name": "Type 64",
+  "top_attack": false,
+  "sam": false,
+  "missile_generation": 1.0
+},
+{
+  "missile_range": [
+    1,
+    20
+  ],
+  "missile_penetration": 12,
+  "missile_rof": 1,
+  "missile_name": "Type 87",
+  "top_attack": false,
+  "sam": false,
+  "missile_generation": 2.0
+},
+{
+  "missile_range": [
+    1,
+    20
+  ],
+  "missile_penetration": 16,
+  "missile_rof": 1,
+  "missile_name": "Type 01 LMAT",
+  "top_attack": true,
+  "sam": false,
+  "missile_generation": 3.0
+},
+{
+  "missile_range": [
+    5,
+    90
+  ],
+  "missile_penetration": 17,
+  "missile_rof": 1,
+  "missile_name": "Type 96 NLOS",
+  "top_attack": false,
+  "sam": false,
+  "missile_generation": 2.0
+},
+{
+  "missile_range": [
+    5,
+    66
+  ],
+  "missile_penetration": 2,
+  "missile_rof": 1,
+  "missile_name": "SAM-1",
+  "top_attack": false,
+  "sam": true,
+  "missile_generation": 0.0
+},
+{
+  "missile_range": [
+    5,
+    92
+  ],
+  "missile_penetration": 2,
+  "missile_rof": 1,
+  "missile_name": "SAM-1C",
+  "top_attack": false,
+  "sam": true,
+  "missile_generation": 0.0
+},
+{
+  "missile_range": [
+    1,
+    32
+  ],
+  "missile_penetration": 2,
+  "missile_rof": 1,
+  "missile_name": "SAM-3",
+  "top_attack": false,
+  "sam": true,
+  "missile_generation": 0.0
+},
+{
+  "missile_range": [
+    1,
+    38
+  ],
+  "missile_penetration": 14,
+  "missile_rof": 2,
+  "missile_name": " ITOW",
+  "top_attack": false,
+  "sam": false,
+  "missile_generation": 2.0
+},
+{
+  "missile_range": [
+    1,
+    38
+  ],
+  "missile_penetration": 15,
+  "missile_rof": 2,
+  "missile_name": " TOW 2",
+  "top_attack": false,
+  "sam": false,
+  "missile_generation": 2.0
+},
+{
+  "missile_range": [
+    1,
+    38
+  ],
+  "missile_penetration": 19,
+  "missile_rof": 2,
+  "missile_name": " TOW-2A",
+  "top_attack": false,
+  "sam": false,
+  "missile_generation": 2.0
+},
+{
+  "missile_range": [
+    1,
+    38
+  ],
+  "missile_penetration": 15,
+  "missile_rof": 2,
+  "missile_name": " TOW-2B",
+  "top_attack": true,
+  "sam": false,
+  "missile_generation": 2.0
+},
+{
+  "missile_range": [
+    2,
+    25
+  ],
+  "missile_penetration": 14,
+  "missile_rof": 1,
+  "missile_name": " Spike-MR (Gil)",
+  "top_attack": true,
+  "sam": false,
+  "missile_generation": 3.0
+},
+{
+  "missile_range": [
+    1,
+    32
+  ],
+  "missile_penetration": 2,
+  "missile_rof": 1,
+  "missile_name": " FIM-92 Stinger",
+  "top_attack": false,
+  "sam": true,
+  "missile_generation": 0.0
+},
+{
+  "missile_range": [
+    2,
+    40
+  ],
+  "missile_penetration": 14,
+  "missile_rof": 1,
+  "missile_name": "Swingfire",
+  "top_attack": false,
+  "sam": false,
+  "missile_generation": 1.0
+},
+{
+  "missile_range": [
+    1,
+    40
+  ],
+  "missile_penetration": 14,
+  "missile_rof": 1,
+  "missile_name": "AT-10b",
+  "top_attack": false,
+  "sam": false,
+  "missile_generation": 2.0
+},
+{
+  "missile_range": [
+    1,
+    55
+  ],
+  "missile_penetration": 14,
+  "missile_rof": 1,
+  "missile_name": "AT-10c",
+  "top_attack": false,
+  "sam": false,
+  "missile_generation": 2.0
+},
+{
+  "missile_range": [
+    1,
+    40
+  ],
+  "missile_penetration": 13,
+  "missile_rof": 1,
+  "missile_name": "ATGM defenses: +1 to save;",
+  "top_attack": false,
+  "sam": false,
+  "missile_generation": 2.0
+},
+{
+  "missile_range": [
+    1,
+    40
+  ],
+  "missile_penetration": 13,
+  "missile_rof": 1,
+  "missile_name": "AT-12",
+  "top_attack": false,
+  "sam": false,
+  "missile_generation": 2.0
+},
+{
+  "missile_range": [
+    1,
+    40
+  ],
+  "missile_penetration": 14,
+  "missile_rof": 1,
+  "missile_name": "AT-12b",
+  "top_attack": false,
+  "sam": false,
+  "missile_generation": 2.0
+},
+{
+  "missile_range": [
+    1,
+    55
+  ],
+  "missile_penetration": 14,
+  "missile_rof": 1,
+  "missile_name": "AT-12c",
+  "top_attack": false,
+  "sam": false,
+  "missile_generation": 2.0
+},
+{
+  "missile_range": [
+    1,
+    40
+  ],
+  "missile_penetration": 12,
+  "missile_rof": 1,
+  "missile_name": "AT-8",
+  "top_attack": false,
+  "sam": false,
+  "missile_generation": 2.0
+},
+{
+  "missile_range": [
+    1,
+    40
+  ],
+  "missile_penetration": 15,
+  "missile_rof": 1,
+  "missile_name": "AT-11",
+  "top_attack": false,
+  "sam": false,
+  "missile_generation": 2.0
+},
+{
+  "missile_range": [
+    1,
+    50
+  ],
+  "missile_penetration": 15,
+  "missile_rof": 1,
+  "missile_name": "ATGM defenses: +1 to save;",
+  "top_attack": false,
+  "sam": false,
+  "missile_generation": 2.0
+},
+{
+  "missile_range": [
+    1,
+    50
+  ],
+  "missile_penetration": 15,
+  "missile_rof": 1,
+  "missile_name": "  125mm\/L48 SB (Russia)",
+  "top_attack": false,
+  "sam": false,
+  "missile_generation": 2.0
+},
+{
+  "missile_range": [
+    1,
+    55
+  ],
+  "missile_penetration": 19,
+  "missile_rof": 1,
+  "missile_name": "AT-14",
+  "top_attack": false,
+  "sam": false,
+  "missile_generation": 2.0
+},
+{
+  "missile_range": [
+    3,
+    33
+  ],
+  "missile_penetration": 12,
+  "missile_rof": 1,
+  "missile_name": "3M7 Drakon",
+  "top_attack": false,
+  "sam": false,
+  "missile_generation": 1.0
+},
+{
+  "missile_range": [
+    6,
+    20
+  ],
+  "missile_penetration": 10,
+  "missile_rof": 1,
+  "missile_name": "AT-1",
+  "top_attack": false,
+  "sam": false,
+  "missile_generation": 1.0
+},
+{
+  "missile_range": [
+    10,
+    25
+  ],
+  "missile_penetration": 14,
+  "missile_rof": 1,
+  "missile_name": "AT-2a",
+  "top_attack": false,
+  "sam": false,
+  "missile_generation": 1.0
+},
+{
+  "missile_range": [
+    10,
+    35
+  ],
+  "missile_penetration": 14,
+  "missile_rof": 1,
+  "missile_name": "AT-2b",
+  "top_attack": false,
+  "sam": false,
+  "missile_generation": 1.0
+},
+{
+  "missile_range": [
+    10,
+    40
+  ],
+  "missile_penetration": 14,
+  "missile_rof": 1,
+  "missile_name": "AT-2c",
+  "top_attack": false,
+  "sam": false,
+  "missile_generation": 2.0
+},
+{
+  "missile_range": [
+    5,
+    30
+  ],
+  "missile_penetration": 11,
+  "missile_rof": 1,
+  "missile_name": " AT-3b",
+  "top_attack": false,
+  "sam": false,
+  "missile_generation": 1.0
+},
+{
+  "missile_range": [
+    5,
+    30
+  ],
+  "missile_penetration": 12,
+  "missile_rof": 1,
+  "missile_name": " AT-3c",
+  "top_attack": false,
+  "sam": false,
+  "missile_generation": 2.0
+},
+{
+  "missile_range": [
+    1,
+    30
+  ],
+  "missile_penetration": 15,
+  "missile_rof": 1,
+  "missile_name": " AT-3d",
+  "top_attack": false,
+  "sam": false,
+  "missile_generation": 2.0
+},
+{
+  "missile_range": [
+    10,
+    25
+  ],
+  "missile_penetration": 14,
+  "missile_rof": 1,
+  "missile_name": " AT-2a",
+  "top_attack": false,
+  "sam": false,
+  "missile_generation": 1.0
+},
+{
+  "missile_range": [
+    10,
+    35
+  ],
+  "missile_penetration": 14,
+  "missile_rof": 1,
+  "missile_name": " AT-2b",
+  "top_attack": false,
+  "sam": false,
+  "missile_generation": 1.0
+},
+{
+  "missile_range": [
+    10,
+    40
+  ],
+  "missile_penetration": 14,
+  "missile_rof": 1,
+  "missile_name": " AT-2c",
+  "top_attack": false,
+  "sam": false,
+  "missile_generation": 2.0
+},
+{
+  "missile_range": [
+    1,
+    40
+  ],
+  "missile_penetration": 13,
+  "missile_rof": 2,
+  "missile_name": " AT-5",
+  "top_attack": false,
+  "sam": false,
+  "missile_generation": 2.0
+},
+{
+  "missile_range": [
+    1,
+    40
+  ],
+  "missile_penetration": 16,
+  "missile_rof": 2,
+  "missile_name": " AT-5M",
+  "top_attack": false,
+  "sam": false,
+  "missile_generation": 2.0
+},
+{
+  "missile_range": [
+    1,
+    50
+  ],
+  "missile_penetration": 13,
+  "missile_rof": 1,
+  "missile_name": " AT-6",
+  "top_attack": false,
+  "sam": false,
+  "missile_generation": 2.0
+},
+{
+  "missile_range": [
+    1,
+    60
+  ],
+  "missile_penetration": 16,
+  "missile_rof": 1,
+  "missile_name": " AT-6M1",
+  "top_attack": false,
+  "sam": false,
+  "missile_generation": 2.0
+},
+{
+  "missile_range": [
+    1,
+    70
+  ],
+  "missile_penetration": 16,
+  "missile_rof": 1,
+  "missile_name": " AT-6M2",
+  "top_attack": false,
+  "sam": false,
+  "missile_generation": 2.0
+},
+{
+  "missile_range": [
+    1,
+    55
+  ],
+  "missile_penetration": 19,
+  "missile_rof": 2,
+  "missile_name": " AT-14",
+  "top_attack": false,
+  "sam": false,
+  "missile_generation": 2.0
+},
+{
+  "missile_range": [
+    1,
+    50
+  ],
+  "missile_penetration": 19,
+  "missile_rof": 2,
+  "missile_name": " AT-15",
+  "top_attack": false,
+  "sam": false,
+  "missile_generation": 3.0
+},
+{
+  "missile_range": [
+    1,
+    52
+  ],
+  "missile_penetration": 2,
+  "missile_rof": 1,
+  "missile_name": "SA-19",
+  "top_attack": false,
+  "sam": true,
+  "missile_generation": 0.0
+},
+{
+  "missile_range": [
+    15,
+    80
+  ],
+  "missile_penetration": 2,
+  "missile_rof": 1,
+  "missile_name": "SA-8",
+  "top_attack": false,
+  "sam": true,
+  "missile_generation": 0.0
+},
+{
+  "missile_range": [
+    8,
+    42
+  ],
+  "missile_penetration": 2,
+  "missile_rof": 1,
+  "missile_name": "SA-9",
+  "top_attack": false,
+  "sam": false,
+  "missile_generation": null
+},
+{
+  "missile_range": [
+    2,
+    32
+  ],
+  "missile_penetration": 2,
+  "missile_rof": 1,
+  "missile_name": "SA-13",
+  "top_attack": false,
+  "sam": true,
+  "missile_generation": 0.0
+},
+{
+  "missile_range": [
+    15,
+    80
+  ],
+  "missile_penetration": 2,
+  "missile_rof": 2,
+  "missile_name": "SA-15",
+  "top_attack": false,
+  "sam": true,
+  "missile_generation": 0.0
+},
+{
+  "missile_range": [
+    1,
+    40
+  ],
+  "missile_penetration": 14,
+  "missile_rof": 1,
+  "missile_name": "ZT-3 Swift",
+  "top_attack": false,
+  "sam": false,
+  "missile_generation": 2.0
+},
+{
+  "missile_range": [
+    2,
+    50
+  ],
+  "missile_penetration": 19,
+  "missile_rof": 1,
+  "missile_name": "ZT-3B Ingwe",
+  "top_attack": false,
+  "sam": false,
+  "missile_generation": 3.0
+},
+{
+  "missile_range": [
+    5,
+    72
+  ],
+  "missile_penetration": 2,
+  "missile_rof": 1,
+  "missile_name": "Crotale-NG",
+  "top_attack": false,
+  "sam": true,
+  "missile_generation": 0.0
+},
+{
+  "missile_range": [
+    2,
+    20
+  ],
+  "missile_penetration": 13,
+  "missile_rof": 1,
+  "missile_name": "BILL",
+  "top_attack": true,
+  "sam": false,
+  "missile_generation": 2.0
+},
+{
+  "missile_range": [
+    2,
+    22
+  ],
+  "missile_penetration": 14,
+  "missile_rof": 1,
+  "missile_name": "BILL 2",
+  "top_attack": true,
+  "sam": false,
+  "missile_generation": 2.0
+},
+{
+  "missile_range": [
+    2,
+    26
+  ],
+  "missile_penetration": 2,
+  "missile_rof": 1,
+  "missile_name": "7.62mm MG, RBS-70",
+  "top_attack": false,
+  "sam": true,
+  "missile_generation": 0.0
+},
+{
+  "missile_range": [
+    3,
+    40
+  ],
+  "missile_penetration": 14,
+  "missile_rof": 1,
+  "missile_name": "Malkara",
+  "top_attack": false,
+  "sam": false,
+  "missile_generation": 1.0
+},
+{
+  "missile_range": [
+    2,
+    14
+  ],
+  "missile_penetration": 12,
+  "missile_rof": 1,
+  "missile_name": "Vigilant",
+  "top_attack": false,
+  "sam": false,
+  "missile_generation": 1.0
+},
+{
+  "missile_range": [
+    2,
+    40
+  ],
+  "missile_penetration": 14,
+  "missile_rof": 1,
+  "missile_name": " Swingfire",
+  "top_attack": false,
+  "sam": false,
+  "missile_generation": 1.0
+},
+{
+  "missile_range": [
+    2,
+    40
+  ],
+  "missile_penetration": 14,
+  "missile_rof": 1,
+  "missile_name": " Swingfire 4",
+  "top_attack": false,
+  "sam": false,
+  "missile_generation": 2.0
+},
+{
+  "missile_range": [
+    1,
+    20
+  ],
+  "missile_penetration": 16,
+  "missile_rof": 1,
+  "missile_name": "Javelin",
+  "top_attack": true,
+  "sam": false,
+  "missile_generation": 3.0
+},
+{
+  "missile_range": [
+    2,
+    44
+  ],
+  "missile_penetration": 2,
+  "missile_rof": 1,
+  "missile_name": "Rapier",
+  "top_attack": false,
+  "sam": true,
+  "missile_generation": 0.0
+},
+{
+  "missile_range": [
+    3,
+    46
+  ],
+  "missile_penetration": 2,
+  "missile_rof": 1,
+  "missile_name": "Starstreak",
+  "top_attack": false,
+  "sam": true,
+  "missile_generation": 0.0
+},
+{
+  "missile_range": [
+    10,
+    30
+  ],
+  "missile_penetration": 14,
+  "missile_rof": 1,
+  "missile_name": "Shillelagh",
+  "top_attack": false,
+  "sam": false,
+  "missile_generation": 2.0
+},
+{
+  "missile_range": [
+    1,
+    38
+  ],
+  "missile_penetration": 13,
+  "missile_rof": 2,
+  "missile_name": " TOW-ER",
+  "top_attack": false,
+  "sam": false,
+  "missile_generation": 2.0
+},
+{
+  "missile_range": [
+    1,
+    38
+  ],
+  "missile_penetration": 15,
+  "missile_rof": 2,
+  "missile_name": " TOW-2",
+  "top_attack": false,
+  "sam": false,
+  "missile_generation": 2.0
+},
+{
+  "missile_range": [
+    1,
+    38
+  ],
+  "missile_penetration": 15,
+  "missile_rof": 2,
+  "missile_name": "",
+  "top_attack": true,
+  "sam": false,
+  "missile_generation": 2.0
+},
+{
+  "missile_range": [
+    2,
+    40
+  ],
+  "missile_penetration": 2,
+  "missile_rof": 1,
+  "missile_name": "MIM-72A",
+  "top_attack": false,
+  "sam": false,
+  "missile_generation": null
+},
+{
+  "missile_range": [
+    2,
+    40
+  ],
+  "missile_penetration": 2,
+  "missile_rof": 1,
+  "missile_name": "MIM-72C",
+  "top_attack": false,
+  "sam": true,
+  "missile_generation": 0.0
+},
+{
+  "missile_range": [
+    2,
+    32
+  ],
+  "missile_penetration": 2,
+  "missile_rof": 1,
+  "missile_name": "FIM-92 Stinger",
+  "top_attack": false,
+  "sam": true,
+  "missile_generation": 0.0
+},
+{
+  "missile_range": [
+    2,
+    32
+  ],
+  "missile_penetration": 2,
+  "missile_rof": 1,
+  "missile_name": "FIM-92",
+  "top_attack": false,
+  "sam": true,
+  "missile_generation": 0.0
+}
+]

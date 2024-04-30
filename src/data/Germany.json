@@ -1,0 +1,1440 @@
+[
+{
+  "AI": -1,
+  "Equip": "n,i",
+  "Gun_Pen": [
+    "11",
+    "11h"
+  ],
+  "Gun_ROF": 3,
+  "Gun_Rng": 16,
+  "Name": "Leopard 1",
+  "Points": 195.0,
+  "era": {
+    "start_era": "65",
+    "end_era": "70"
+  },
+  "gun_name": "105mm\/L51 R (Germany)",
+  "missile_name": null,
+  "move_type": [
+    "tracked"
+  ],
+  "move_value": "10",
+  "nation": "Germany",
+  "armor": [
+    8,
+    5
+  ],
+  "unlimited_missiles": false,
+  "infantry_capacity": 0
+},
+{
+  "AI": -1,
+  "Equip": "s,n",
+  "Gun_Pen": [
+    "11",
+    "11h"
+  ],
+  "Gun_ROF": 3,
+  "Gun_Rng": 16,
+  "Name": "Leopard 1A1",
+  "Points": 200.0,
+  "era": {
+    "start_era": "70",
+    "end_era": "77"
+  },
+  "gun_name": "105mm\/L51 R (Germany)",
+  "missile_name": null,
+  "move_type": [
+    "tracked"
+  ],
+  "move_value": "10",
+  "nation": "Germany",
+  "armor": [
+    8,
+    5
+  ],
+  "unlimited_missiles": false,
+  "infantry_capacity": 0
+},
+{
+  "AI": -1,
+  "Equip": "s,n",
+  "Gun_Pen": [
+    "11",
+    "11h"
+  ],
+  "Gun_ROF": 3,
+  "Gun_Rng": 16,
+  "Name": "Leopard 1A1A1",
+  "Points": 214.0,
+  "era": {
+    "start_era": "74",
+    "end_era": "79"
+  },
+  "gun_name": "105mm\/L51 R (Germany)",
+  "missile_name": null,
+  "move_type": [
+    "tracked"
+  ],
+  "move_value": "9",
+  "nation": "Germany",
+  "armor": [
+    9,
+    6,
+    10,
+    7
+  ],
+  "unlimited_missiles": false,
+  "infantry_capacity": 0
+},
+{
+  "AI": -1,
+  "Equip": "s,n,i",
+  "Gun_Pen": [
+    "13"
+  ],
+  "Gun_ROF": 3,
+  "Gun_Rng": 16,
+  "Name": "Leopard 1A1A2",
+  "Points": 235.0,
+  "era": {
+    "start_era": "80",
+    "end_era": "93"
+  },
+  "gun_name": "105mm\/L51 R (Germany)",
+  "missile_name": null,
+  "move_type": [
+    "tracked"
+  ],
+  "move_value": "9",
+  "nation": "Germany",
+  "armor": [
+    9,
+    6,
+    10,
+    7
+  ],
+  "unlimited_missiles": false,
+  "infantry_capacity": 0
+},
+{
+  "AI": -1,
+  "Equip": "s,n,i",
+  "Gun_Pen": [
+    "14"
+  ],
+  "Gun_ROF": 3,
+  "Gun_Rng": 16,
+  "Name": "Leopard 1A1A2",
+  "Points": 242.0,
+  "era": {
+    "start_era": "94",
+    "end_era": "95"
+  },
+  "gun_name": "105mm\/L51 R (Germany)",
+  "missile_name": null,
+  "move_type": [
+    "tracked"
+  ],
+  "move_value": "9",
+  "nation": "Germany",
+  "armor": [
+    9,
+    6,
+    10,
+    7
+  ],
+  "unlimited_missiles": false,
+  "infantry_capacity": 0
+},
+{
+  "AI": -1,
+  "Equip": "s,n",
+  "Gun_Pen": [
+    "11",
+    "11h"
+  ],
+  "Gun_ROF": 3,
+  "Gun_Rng": 16,
+  "Name": "Leopard 1A2",
+  "Points": 214.0,
+  "era": {
+    "start_era": "72",
+    "end_era": "79"
+  },
+  "gun_name": "105mm\/L51 R (Germany)",
+  "missile_name": null,
+  "move_type": [
+    "tracked"
+  ],
+  "move_value": "9",
+  "nation": "Germany",
+  "armor": [
+    9,
+    6,
+    10,
+    7
+  ],
+  "unlimited_missiles": false,
+  "infantry_capacity": 0
+},
+{
+  "AI": -1,
+  "Equip": "s,n,i",
+  "Gun_Pen": [
+    "13"
+  ],
+  "Gun_ROF": 3,
+  "Gun_Rng": 16,
+  "Name": "Leopard 1A2A1",
+  "Points": 235.0,
+  "era": {
+    "start_era": "80",
+    "end_era": "93"
+  },
+  "gun_name": "105mm\/L51 R (Germany)",
+  "missile_name": null,
+  "move_type": [
+    "tracked"
+  ],
+  "move_value": "9",
+  "nation": "Germany",
+  "armor": [
+    9,
+    6,
+    10,
+    7
+  ],
+  "unlimited_missiles": false,
+  "infantry_capacity": 0
+},
+{
+  "AI": -1,
+  "Equip": "s,n,i",
+  "Gun_Pen": [
+    "14"
+  ],
+  "Gun_ROF": 3,
+  "Gun_Rng": 16,
+  "Name": "Leopard 1A2A1",
+  "Points": 242.0,
+  "era": {
+    "start_era": "94",
+    "end_era": "15"
+  },
+  "gun_name": "105mm\/L51 R (Germany)",
+  "missile_name": null,
+  "move_type": [
+    "tracked"
+  ],
+  "move_value": "9",
+  "nation": "Germany",
+  "armor": [
+    9,
+    6,
+    10,
+    7
+  ],
+  "unlimited_missiles": false,
+  "infantry_capacity": 0
+},
+{
+  "AI": -1,
+  "Equip": "s,n",
+  "Gun_Pen": [
+    "11",
+    "11h"
+  ],
+  "Gun_ROF": 3,
+  "Gun_Rng": 16,
+  "Name": "Leopard 1A3",
+  "Points": 214.0,
+  "era": {
+    "start_era": "73",
+    "end_era": "79"
+  },
+  "gun_name": "105mm\/L51 R (Germany)",
+  "missile_name": null,
+  "move_type": [
+    "tracked"
+  ],
+  "move_value": "9",
+  "nation": "Germany",
+  "armor": [
+    9,
+    6,
+    10,
+    7
+  ],
+  "unlimited_missiles": false,
+  "infantry_capacity": 0
+},
+{
+  "AI": -1,
+  "Equip": "s,n,i",
+  "Gun_Pen": [
+    "13"
+  ],
+  "Gun_ROF": 3,
+  "Gun_Rng": 16,
+  "Name": "Leopard 1A3A1",
+  "Points": 235.0,
+  "era": {
+    "start_era": "80",
+    "end_era": "93"
+  },
+  "gun_name": "105mm\/L51 R (Germany)",
+  "missile_name": null,
+  "move_type": [
+    "tracked"
+  ],
+  "move_value": "9",
+  "nation": "Germany",
+  "armor": [
+    9,
+    6,
+    10,
+    7
+  ],
+  "unlimited_missiles": false,
+  "infantry_capacity": 0
+},
+{
+  "AI": -1,
+  "Equip": "s,n,i",
+  "Gun_Pen": [
+    "14"
+  ],
+  "Gun_ROF": 3,
+  "Gun_Rng": 16,
+  "Name": "Leopard 1A3A1",
+  "Points": 242.0,
+  "era": {
+    "start_era": "94",
+    "end_era": "15"
+  },
+  "gun_name": "105mm\/L51 R (Germany)",
+  "missile_name": null,
+  "move_type": [
+    "tracked"
+  ],
+  "move_value": "9",
+  "nation": "Germany",
+  "armor": [
+    9,
+    6,
+    10,
+    7
+  ],
+  "unlimited_missiles": false,
+  "infantry_capacity": 0
+},
+{
+  "AI": -1,
+  "Equip": "s,n,i",
+  "Gun_Pen": [
+    "11",
+    "11h"
+  ],
+  "Gun_ROF": 3,
+  "Gun_Rng": 16,
+  "Name": "Leopard 1A4",
+  "Points": 221.0,
+  "era": {
+    "start_era": "74",
+    "end_era": "79"
+  },
+  "gun_name": "105mm\/L51 R (Germany)",
+  "missile_name": null,
+  "move_type": [
+    "tracked"
+  ],
+  "move_value": "9",
+  "nation": "Germany",
+  "armor": [
+    9,
+    6,
+    10,
+    7
+  ],
+  "unlimited_missiles": false,
+  "infantry_capacity": 0
+},
+{
+  "AI": -1,
+  "Equip": "s,n,i",
+  "Gun_Pen": [
+    "13"
+  ],
+  "Gun_ROF": 3,
+  "Gun_Rng": 16,
+  "Name": "Leopard 1A4",
+  "Points": 235.0,
+  "era": {
+    "start_era": "80",
+    "end_era": "93"
+  },
+  "gun_name": "105mm\/L51 R (Germany)",
+  "missile_name": null,
+  "move_type": [
+    "tracked"
+  ],
+  "move_value": "9",
+  "nation": "Germany",
+  "armor": [
+    9,
+    6,
+    10,
+    7
+  ],
+  "unlimited_missiles": false,
+  "infantry_capacity": 0
+},
+{
+  "AI": -1,
+  "Equip": "s,n,t",
+  "Gun_Pen": [
+    "13"
+  ],
+  "Gun_ROF": 3,
+  "Gun_Rng": 20,
+  "Name": "Leopard 1A5",
+  "Points": 265.0,
+  "era": {
+    "start_era": "87",
+    "end_era": "93"
+  },
+  "gun_name": "105mm\/L51 R (Germany)",
+  "missile_name": null,
+  "move_type": [
+    "tracked"
+  ],
+  "move_value": "9",
+  "nation": "Germany",
+  "armor": [
+    9,
+    6,
+    10,
+    7
+  ],
+  "unlimited_missiles": false,
+  "infantry_capacity": 0
+},
+{
+  "AI": -1,
+  "Equip": "s,n,t",
+  "Gun_Pen": [
+    "14"
+  ],
+  "Gun_ROF": 3,
+  "Gun_Rng": 20,
+  "Name": "Leopard 1A5",
+  "Points": 279.0,
+  "era": {
+    "start_era": "94",
+    "end_era": "15"
+  },
+  "gun_name": "105mm\/L51 R (Germany)",
+  "missile_name": null,
+  "move_type": [
+    "tracked"
+  ],
+  "move_value": "12",
+  "nation": "Germany",
+  "armor": [
+    9,
+    6,
+    10,
+    7
+  ],
+  "unlimited_missiles": false,
+  "infantry_capacity": 0
+},
+{
+  "AI": -1,
+  "Equip": "s,n,i",
+  "Gun_Pen": [
+    "11",
+    "11h"
+  ],
+  "Gun_ROF": 3,
+  "Gun_Rng": 16,
+  "Name": "M48A2G2",
+  "Points": 199.0,
+  "era": {
+    "start_era": "78",
+    "end_era": "79"
+  },
+  "gun_name": "105mm\/L51 R (Germany)",
+  "missile_name": null,
+  "move_type": [
+    "tracked"
+  ],
+  "move_value": "8",
+  "nation": "Germany",
+  "armor": [
+    7,
+    5,
+    9,
+    7
+  ],
+  "unlimited_missiles": false,
+  "infantry_capacity": 0
+},
+{
+  "AI": -1,
+  "Equip": "s,n,i",
+  "Gun_Pen": [
+    "13"
+  ],
+  "Gun_ROF": 3,
+  "Gun_Rng": 16,
+  "Name": "M48A2G2",
+  "Points": 213.0,
+  "era": {
+    "start_era": "80",
+    "end_era": "93"
+  },
+  "gun_name": "105mm\/L51 R (Germany)",
+  "missile_name": null,
+  "move_type": [
+    "tracked"
+  ],
+  "move_value": "8",
+  "nation": "Germany",
+  "armor": [
+    7,
+    5,
+    9,
+    7
+  ],
+  "unlimited_missiles": false,
+  "infantry_capacity": 0
+},
+{
+  "AI": -1,
+  "Equip": "s,n,i",
+  "Gun_Pen": [
+    "14"
+  ],
+  "Gun_ROF": 3,
+  "Gun_Rng": 16,
+  "Name": "M48A2G2",
+  "Points": 219.0,
+  "era": {
+    "start_era": "94",
+    "end_era": "15"
+  },
+  "gun_name": "105mm\/L51 R (Germany)",
+  "missile_name": null,
+  "move_type": [
+    "tracked"
+  ],
+  "move_value": "8",
+  "nation": "Germany",
+  "armor": [
+    7,
+    5,
+    9,
+    7
+  ],
+  "unlimited_missiles": false,
+  "infantry_capacity": 0
+},
+{
+  "AI": -1,
+  "Equip": "ss,n",
+  "Gun_Pen": [
+    "14"
+  ],
+  "Gun_ROF": 3,
+  "Gun_Rng": 20,
+  "Name": "Leopard 2A1-2A3",
+  "Points": 323.0,
+  "era": {
+    "start_era": "81",
+    "end_era": "82"
+  },
+  "gun_name": "120mm\/L44 SB (Germany)",
+  "missile_name": null,
+  "move_type": [
+    "tracked"
+  ],
+  "move_value": "14",
+  "nation": "Germany",
+  "armor": [
+    13,
+    8,
+    15,
+    10
+  ],
+  "unlimited_missiles": false,
+  "infantry_capacity": 0
+},
+{
+  "AI": -1,
+  "Equip": "ss,t,n",
+  "Gun_Pen": [
+    "14"
+  ],
+  "Gun_ROF": 3,
+  "Gun_Rng": 20,
+  "Name": "Leopard 2A1-2A3",
+  "Points": 343.0,
+  "era": {
+    "start_era": "83",
+    "end_era": "85"
+  },
+  "gun_name": "120mm\/L44 SB (Germany)",
+  "missile_name": null,
+  "move_type": [
+    "tracked"
+  ],
+  "move_value": "14",
+  "nation": "Germany",
+  "armor": [
+    13,
+    8,
+    15,
+    10
+  ],
+  "unlimited_missiles": false,
+  "infantry_capacity": 0
+},
+{
+  "AI": -1,
+  "Equip": "ss,t,n",
+  "Gun_Pen": [
+    "15"
+  ],
+  "Gun_ROF": 3,
+  "Gun_Rng": 24,
+  "Name": "Leopard 2A1-2A3",
+  "Points": 373.0,
+  "era": {
+    "start_era": "86",
+    "end_era": "95"
+  },
+  "gun_name": "120mm\/L44 SB (Germany)",
+  "missile_name": null,
+  "move_type": [
+    "tracked"
+  ],
+  "move_value": "14",
+  "nation": "Germany",
+  "armor": [
+    13,
+    8,
+    15,
+    10
+  ],
+  "unlimited_missiles": false,
+  "infantry_capacity": 0
+},
+{
+  "AI": -1,
+  "Equip": "ss,t,n",
+  "Gun_Pen": [
+    "17"
+  ],
+  "Gun_ROF": 3,
+  "Gun_Rng": 24,
+  "Name": "Leopard 2A1-2A3",
+  "Points": 390.0,
+  "era": {
+    "start_era": "96",
+    "end_era": "15"
+  },
+  "gun_name": "120mm\/L44 SB (Germany)",
+  "missile_name": null,
+  "move_type": [
+    "tracked"
+  ],
+  "move_value": "14",
+  "nation": "Germany",
+  "armor": [
+    13,
+    8,
+    15,
+    10
+  ],
+  "unlimited_missiles": false,
+  "infantry_capacity": 0
+},
+{
+  "AI": -1,
+  "Equip": "ss,t,n",
+  "Gun_Pen": [
+    "14"
+  ],
+  "Gun_ROF": 3,
+  "Gun_Rng": 24,
+  "Name": "Leopard 2A4",
+  "Points": 378.0,
+  "era": {
+    "start_era": "85",
+    "end_era": "85"
+  },
+  "gun_name": "120mm\/L44 SB (Germany)",
+  "missile_name": null,
+  "move_type": [
+    "tracked"
+  ],
+  "move_value": "14",
+  "nation": "Germany",
+  "armor": [
+    14,
+    8,
+    16,
+    10
+  ],
+  "unlimited_missiles": false,
+  "infantry_capacity": 0
+},
+{
+  "AI": -1,
+  "Equip": "ss,t,n",
+  "Gun_Pen": [
+    "15"
+  ],
+  "Gun_ROF": 3,
+  "Gun_Rng": 24,
+  "Name": "Leopard 2A4",
+  "Points": 386.0,
+  "era": {
+    "start_era": "86",
+    "end_era": "95"
+  },
+  "gun_name": "120mm\/L44 SB (Germany)",
+  "missile_name": null,
+  "move_type": [
+    "tracked"
+  ],
+  "move_value": "14",
+  "nation": "Germany",
+  "armor": [
+    14,
+    8,
+    16,
+    10
+  ],
+  "unlimited_missiles": false,
+  "infantry_capacity": 0
+},
+{
+  "AI": -1,
+  "Equip": "ss,t,n",
+  "Gun_Pen": [
+    "17"
+  ],
+  "Gun_ROF": 3,
+  "Gun_Rng": 24,
+  "Name": "Leopard 2A4",
+  "Points": 403.0,
+  "era": {
+    "start_era": "96",
+    "end_era": "15"
+  },
+  "gun_name": "120mm\/L44 SB (Germany)",
+  "missile_name": null,
+  "move_type": [
+    "tracked"
+  ],
+  "move_value": "14",
+  "nation": "Germany",
+  "armor": [
+    14,
+    8,
+    16,
+    10
+  ],
+  "unlimited_missiles": false,
+  "infantry_capacity": 0
+},
+{
+  "AI": -1,
+  "Equip": "ss,t,n,c",
+  "Gun_Pen": [
+    "17"
+  ],
+  "Gun_ROF": 3,
+  "Gun_Rng": 24,
+  "Name": "Leopard 2A5",
+  "Points": 437.0,
+  "era": {
+    "start_era": "98",
+    "end_era": "15"
+  },
+  "gun_name": "120mm\/L44 SB (Germany)",
+  "missile_name": null,
+  "move_type": [
+    "tracked"
+  ],
+  "move_value": "14",
+  "nation": "Germany",
+  "armor": [
+    16,
+    10,
+    18,
+    12
+  ],
+  "unlimited_missiles": false,
+  "infantry_capacity": 0
+},
+{
+  "AI": -1,
+  "Equip": "ss,t,n,c,v",
+  "Gun_Pen": [
+    "17"
+  ],
+  "Gun_ROF": 3,
+  "Gun_Rng": 24,
+  "Name": "Leopard 2A6",
+  "Points": 445.0,
+  "era": {
+    "start_era": "01",
+    "end_era": "15"
+  },
+  "gun_name": "120mm\/L55 SB (Germany)",
+  "missile_name": null,
+  "move_type": [
+    "tracked"
+  ],
+  "move_value": "14",
+  "nation": "Germany",
+  "armor": [
+    16,
+    10,
+    19,
+    13
+  ],
+  "unlimited_missiles": false,
+  "infantry_capacity": 0
+},
+{
+  "AI": 0,
+  "Equip": "-",
+  "Gun_Pen": [
+    "2"
+  ],
+  "Gun_ROF": 4,
+  "Gun_Rng": 10,
+  "Name": "SPz 12-3 IFV (HS.30)",
+  "Points": 60.0,
+  "era": {
+    "start_era": "58",
+    "end_era": "74"
+  },
+  "gun_name": "20mm R (Germany)",
+  "missile_name": null,
+  "move_type": [
+    "tracked"
+  ],
+  "move_value": "7",
+  "nation": "Germany",
+  "armor": [
+    4,
+    2
+  ],
+  "unlimited_missiles": false,
+  "infantry_capacity": 1
+},
+{
+  "AI": -1,
+  "Equip": "i",
+  "Gun_Pen": [
+    "-"
+  ],
+  "Gun_ROF": 1,
+  "Gun_Rng": 6,
+  "Name": "UR-416",
+  "Points": 10.0,
+  "era": {
+    "start_era": "69",
+    "end_era": "15"
+  },
+  "gun_name": "7.62mm MG",
+  "missile_name": null,
+  "move_type": [
+    "wheeled"
+  ],
+  "move_value": "7",
+  "nation": "Germany",
+  "armor": [
+    1,
+    0
+  ],
+  "unlimited_missiles": false,
+  "infantry_capacity": 1
+},
+{
+  "AI": 0,
+  "Equip": "n,i",
+  "Gun_Pen": [
+    "2"
+  ],
+  "Gun_ROF": 4,
+  "Gun_Rng": 10,
+  "Name": "Marder 1",
+  "Points": 75.0,
+  "era": {
+    "start_era": "71",
+    "end_era": "79"
+  },
+  "gun_name": "20mm R (Germany)",
+  "missile_name": null,
+  "move_type": [
+    "tracked"
+  ],
+  "move_value": "8",
+  "nation": "Germany",
+  "armor": [
+    5,
+    4
+  ],
+  "unlimited_missiles": false,
+  "infantry_capacity": 1
+},
+{
+  "AI": 0,
+  "Equip": "n,i",
+  "Gun_Pen": [
+    "2"
+  ],
+  "Gun_ROF": 4,
+  "Gun_Rng": 10,
+  "Name": "Marder 1 (with Milan)",
+  "Points": 92.0,
+  "era": {
+    "start_era": "77",
+    "end_era": "81"
+  },
+  "gun_name": " 20mm R (Germany)",
+  "missile_name": "Milan",
+  "move_type": [
+    "tracked"
+  ],
+  "move_value": "8",
+  "nation": "Germany",
+  "armor": [
+    5,
+    4
+  ],
+  "unlimited_missiles": false,
+  "infantry_capacity": 1
+},
+{
+  "AI": 0,
+  "Equip": "n,i",
+  "Gun_Pen": [
+    "3"
+  ],
+  "Gun_ROF": 4,
+  "Gun_Rng": 10,
+  "Name": "Marder 1 (with Milan)",
+  "Points": 92.0,
+  "era": {
+    "start_era": "82",
+    "end_era": "82"
+  },
+  "gun_name": " 20mm R (Germany)",
+  "missile_name": "Milan",
+  "move_type": [
+    "tracked"
+  ],
+  "move_value": "8",
+  "nation": "Germany",
+  "armor": [
+    5,
+    4
+  ],
+  "unlimited_missiles": false,
+  "infantry_capacity": 1
+},
+{
+  "AI": 0,
+  "Equip": "n,i",
+  "Gun_Pen": [
+    "2"
+  ],
+  "Gun_ROF": 4,
+  "Gun_Rng": 10,
+  "Name": "Marder 1A1(-)",
+  "Points": 92.0,
+  "era": {
+    "start_era": "79",
+    "end_era": "81"
+  },
+  "gun_name": " 20mm R (Germany)",
+  "missile_name": "Milan",
+  "move_type": [
+    "tracked"
+  ],
+  "move_value": "8",
+  "nation": "Germany",
+  "armor": [
+    5,
+    4
+  ],
+  "unlimited_missiles": false,
+  "infantry_capacity": 1
+},
+{
+  "AI": 0,
+  "Equip": "n,i",
+  "Gun_Pen": [
+    "3"
+  ],
+  "Gun_ROF": 4,
+  "Gun_Rng": 10,
+  "Name": "Marder 1A1(-)",
+  "Points": 92.0,
+  "era": {
+    "start_era": "82",
+    "end_era": "84"
+  },
+  "gun_name": " 20mm R (Germany)",
+  "missile_name": "Milan",
+  "move_type": [
+    "tracked"
+  ],
+  "move_value": "8",
+  "nation": "Germany",
+  "armor": [
+    5,
+    4
+  ],
+  "unlimited_missiles": false,
+  "infantry_capacity": 1
+},
+{
+  "AI": 0,
+  "Equip": "n,t",
+  "Gun_Pen": [
+    "3"
+  ],
+  "Gun_ROF": 4,
+  "Gun_Rng": 10,
+  "Name": "Marder 1A1(-)",
+  "Points": 104.0,
+  "era": {
+    "start_era": "85",
+    "end_era": "87"
+  },
+  "gun_name": "Milan 2",
+  "missile_name": null,
+  "move_type": [
+    "tracked"
+  ],
+  "move_value": "8",
+  "nation": "Germany",
+  "armor": [
+    5,
+    4
+  ],
+  "unlimited_missiles": false,
+  "infantry_capacity": 1
+},
+{
+  "AI": 0,
+  "Equip": "n,t",
+  "Gun_Pen": [
+    "4"
+  ],
+  "Gun_ROF": 4,
+  "Gun_Rng": 10,
+  "Name": "Marder 1A1(-)",
+  "Points": 104.0,
+  "era": {
+    "start_era": "88",
+    "end_era": "91"
+  },
+  "gun_name": "Milan 2",
+  "missile_name": null,
+  "move_type": [
+    "tracked"
+  ],
+  "move_value": "8",
+  "nation": "Germany",
+  "armor": [
+    5,
+    4
+  ],
+  "unlimited_missiles": false,
+  "infantry_capacity": 1
+},
+{
+  "AI": 0,
+  "Equip": "n,t",
+  "Gun_Pen": [
+    "2"
+  ],
+  "Gun_ROF": 4,
+  "Gun_Rng": 10,
+  "Name": "Marder 1A1(+)",
+  "Points": 96.0,
+  "era": {
+    "start_era": "79",
+    "end_era": "79"
+  },
+  "gun_name": " 20mm R (Germany)",
+  "missile_name": "Milan",
+  "move_type": [
+    "tracked"
+  ],
+  "move_value": "8",
+  "nation": "Germany",
+  "armor": [
+    5,
+    4
+  ],
+  "unlimited_missiles": false,
+  "infantry_capacity": 1
+},
+{
+  "AI": 0,
+  "Equip": "n,t",
+  "Gun_Pen": [
+    "3"
+  ],
+  "Gun_ROF": 4,
+  "Gun_Rng": 10,
+  "Name": "Marder 1A1(+)",
+  "Points": 96.0,
+  "era": {
+    "start_era": "82",
+    "end_era": "84"
+  },
+  "gun_name": " 20mm R (Germany)",
+  "missile_name": "Milan",
+  "move_type": [
+    "tracked"
+  ],
+  "move_value": "8",
+  "nation": "Germany",
+  "armor": [
+    5,
+    4
+  ],
+  "unlimited_missiles": false,
+  "infantry_capacity": 1
+},
+{
+  "AI": 0,
+  "Equip": "n,t",
+  "Gun_Pen": [
+    "3"
+  ],
+  "Gun_ROF": 4,
+  "Gun_Rng": 10,
+  "Name": "Marder 1A1(+)",
+  "Points": 104.0,
+  "era": {
+    "start_era": "85",
+    "end_era": "87"
+  },
+  "gun_name": "Milan 2",
+  "missile_name": null,
+  "move_type": [
+    "tracked"
+  ],
+  "move_value": "8",
+  "nation": "Germany",
+  "armor": [
+    5,
+    4
+  ],
+  "unlimited_missiles": false,
+  "infantry_capacity": 1
+},
+{
+  "AI": 0,
+  "Equip": "n,t",
+  "Gun_Pen": [
+    "4"
+  ],
+  "Gun_ROF": 4,
+  "Gun_Rng": 10,
+  "Name": "Marder 1A1(+)",
+  "Points": 104.0,
+  "era": {
+    "start_era": "88",
+    "end_era": "91"
+  },
+  "gun_name": "Milan 2",
+  "missile_name": null,
+  "move_type": [
+    "tracked"
+  ],
+  "move_value": "8",
+  "nation": "Germany",
+  "armor": [
+    5,
+    4
+  ],
+  "unlimited_missiles": false,
+  "infantry_capacity": 1
+},
+{
+  "AI": 0,
+  "Equip": "n,i",
+  "Gun_Pen": [
+    "3"
+  ],
+  "Gun_ROF": 4,
+  "Gun_Rng": 10,
+  "Name": "Marder 1A2",
+  "Points": 92.0,
+  "era": {
+    "start_era": "84",
+    "end_era": "84"
+  },
+  "gun_name": " 20mm R (Germany)",
+  "missile_name": "Milan",
+  "move_type": [
+    "tracked"
+  ],
+  "move_value": "8",
+  "nation": "Germany",
+  "armor": [
+    5,
+    4
+  ],
+  "unlimited_missiles": false,
+  "infantry_capacity": 1
+},
+{
+  "AI": 0,
+  "Equip": "t,n",
+  "Gun_Pen": [
+    "3"
+  ],
+  "Gun_ROF": 4,
+  "Gun_Rng": 10,
+  "Name": "Marder 1A2",
+  "Points": 104.0,
+  "era": {
+    "start_era": "85",
+    "end_era": "87"
+  },
+  "gun_name": "Milan 2",
+  "missile_name": null,
+  "move_type": [
+    "tracked"
+  ],
+  "move_value": "8",
+  "nation": "Germany",
+  "armor": [
+    5,
+    4
+  ],
+  "unlimited_missiles": false,
+  "infantry_capacity": 1
+},
+{
+  "AI": 0,
+  "Equip": "t,n",
+  "Gun_Pen": [
+    "4"
+  ],
+  "Gun_ROF": 4,
+  "Gun_Rng": 10,
+  "Name": "Marder 1A2",
+  "Points": 104.0,
+  "era": {
+    "start_era": "88",
+    "end_era": "98"
+  },
+  "gun_name": "Milan 2",
+  "missile_name": null,
+  "move_type": [
+    "tracked"
+  ],
+  "move_value": "8",
+  "nation": "Germany",
+  "armor": [
+    5,
+    4
+  ],
+  "unlimited_missiles": false,
+  "infantry_capacity": 1
+},
+{
+  "AI": 0,
+  "Equip": "t,n",
+  "Gun_Pen": [
+    "4"
+  ],
+  "Gun_ROF": 4,
+  "Gun_Rng": 10,
+  "Name": "Marder 1A3",
+  "Points": 140.0,
+  "era": {
+    "start_era": "88",
+    "end_era": "15"
+  },
+  "gun_name": " 20mm R (Germany)",
+  "missile_name": "Milan 2",
+  "move_type": [
+    "tracked"
+  ],
+  "move_value": "8",
+  "nation": "Germany",
+  "armor": [
+    7,
+    5,
+    10,
+    8
+  ],
+  "unlimited_missiles": false,
+  "infantry_capacity": 1
+},
+{
+  "AI": -1,
+  "Equip": "n,i",
+  "Gun_Pen": [
+    "-"
+  ],
+  "Gun_ROF": 1,
+  "Gun_Rng": 6,
+  "Name": "TPZ-1 Fuchs",
+  "Points": 19.0,
+  "era": {
+    "start_era": "79",
+    "end_era": "15"
+  },
+  "gun_name": "7.62mm MG",
+  "missile_name": null,
+  "move_type": [
+    "wheeled",
+    "amphibious"
+  ],
+  "move_value": "8",
+  "nation": "Germany",
+  "armor": [
+    3,
+    2,
+    4,
+    3
+  ],
+  "unlimited_missiles": false,
+  "infantry_capacity": 1
+},
+{
+  "AI": -1,
+  "Equip": "n,i",
+  "Gun_Pen": [
+    "-"
+  ],
+  "Gun_ROF": 1,
+  "Gun_Rng": 6,
+  "Name": "TM-170",
+  "Points": 10.0,
+  "era": {
+    "start_era": "79",
+    "end_era": "15"
+  },
+  "gun_name": "7.62mm MG",
+  "missile_name": null,
+  "move_type": [
+    "wheeled",
+    "amphibious"
+  ],
+  "move_value": "7",
+  "nation": "Germany",
+  "armor": [
+    1,
+    0
+  ],
+  "unlimited_missiles": false,
+  "infantry_capacity": 1
+},
+{
+  "AI": 0,
+  "Equip": "n,i",
+  "Gun_Pen": [
+    "2"
+  ],
+  "Gun_ROF": 4,
+  "Gun_Rng": 10,
+  "Name": "TM-170 w\/20mm",
+  "Points": 30.0,
+  "era": {
+    "start_era": "79",
+    "end_era": "81"
+  },
+  "gun_name": "20mm R (Germany)",
+  "missile_name": null,
+  "move_type": [
+    "wheeled",
+    "amphibious"
+  ],
+  "move_value": "7",
+  "nation": "Germany",
+  "armor": [
+    1,
+    0
+  ],
+  "unlimited_missiles": false,
+  "infantry_capacity": 1
+},
+{
+  "AI": 0,
+  "Equip": "n,i",
+  "Gun_Pen": [
+    "3"
+  ],
+  "Gun_ROF": 4,
+  "Gun_Rng": 10,
+  "Name": "TM-170 w\/20mm",
+  "Points": 38.0,
+  "era": {
+    "start_era": "82",
+    "end_era": "87"
+  },
+  "gun_name": "20mm R (Germany)",
+  "missile_name": null,
+  "move_type": [
+    "wheeled",
+    "amphibious"
+  ],
+  "move_value": "7",
+  "nation": "Germany",
+  "armor": [
+    1,
+    0
+  ],
+  "unlimited_missiles": false,
+  "infantry_capacity": 1
+},
+{
+  "AI": 0,
+  "Equip": "n,i",
+  "Gun_Pen": [
+    "4"
+  ],
+  "Gun_ROF": 4,
+  "Gun_Rng": 10,
+  "Name": "TM-170 w\/20mm",
+  "Points": 47.0,
+  "era": {
+    "start_era": "88",
+    "end_era": "15"
+  },
+  "gun_name": "20mm R (Germany)",
+  "missile_name": null,
+  "move_type": [
+    "wheeled",
+    "amphibious"
+  ],
+  "move_value": "7",
+  "nation": "Germany",
+  "armor": [
+    1,
+    0
+  ],
+  "unlimited_missiles": false,
+  "infantry_capacity": 1
+}
+]
